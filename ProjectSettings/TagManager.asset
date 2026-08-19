@@ -2,13 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 3846103243
+    locked: 0
+  - name: Furniture
+    uniqueID: 2212388215
+    locked: 0
+  - name: Characters
+    uniqueID: 2525418585
+    locked: 0
+  - name: Items
+    uniqueID: 2271030219
+    locked: 0
+  - name: Effects
+    uniqueID: 851590269
+    locked: 0
+  m_RenderingLayers:
+  - Default
