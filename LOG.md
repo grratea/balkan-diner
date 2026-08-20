@@ -1,5 +1,12 @@
 ## DAN 1
 
-Dodala sam pod, zid i igraca. Napisana skripta za hodanje igraca (PlayerController.cs). Kada su pod i zid preklopljeni, igrac ode na zid zbog toga (provjeriti kako to zaobici, ja sam rn maknula da se nmg preklopiti). Prilagoditi **moveSpeed** i odabrati fje **Lerp** ili **MoveTowards** u PlayerController.cs. Gizmo (zuti krug) se vidi samo u Scene View. Dodan i callback tako da se nova pozicija kopira, obrise i pozove, nema lancanih pokreta i beskonacne petlje.
+Dodala sam pod, zid i igraca. Napisana skripta za hodanje igraca (PlayerController.cs). Kada su pod i zid preklopljeni, igrac ode na zid zbog toga (provjeriti kako to zaobici, ja sam rn maknula da se nmg preklopiti). Prilagoditi **moveSpeed** i odabrati fje **Lerp** ili **MoveTowards** u PlayerController.cs. Gizmo (zuti krug) se vidi samo u Scene View. Dodan i callback tako da se nova pozicija kopira, obrise i pozove, nema lancanih pokreta i beskonacne petlje. 
+MoveTo prima callback jer PlayerController nikad ne mora znati sto postoji u restoranu.
 
 ## DAN 2
+
+Dodala Table.cs i TableState.cs. Prazni GameObjecti se koriste kao markeri pozicije. Jednom kada zamjenim sa spriteom, smanjit cu si muke. Koristit cu Observer pattern kasnije. I imam dodan TableManager.cs koji je Singleton da imam jednu instancu jer je opseg mali. Napravljen mali tester za clicker tj. 3 testa. Prvi u kojem desni klik na stol vrti stanja automata u krug i mijenja boje. Drugi u kojem lijevi klik na stol postavi igraca na servePos te zadnji u kojem lijevi klik na pod pokrece playera. 
+Mijesam konstruktor i Awake jer su slicno predstavljeni, ali Unity zove konstruktor, a Awake je samo priprema. 
+Imala sam veliki problem s trecim stolom koji mi nije htio nista raditi zbog collisiona izmedu stola (layer Furniture) i poda (layer Floor). Rijeseno je na nacin da je uveden layer **Interactable** pa prije provjere poda pita ima li tog objekta, ako ima ne dira cilj kretanja.
+
+**DODATI VISE GOSTIJU PO STOLU TJ. AKO STIGNEM, ali da grupa narucuje zajedno**
