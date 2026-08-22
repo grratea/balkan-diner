@@ -9,6 +9,15 @@ public class TableDebugClicker : MonoBehaviour
     private PlayerController player;
     [SerializeField] private LayerMask interactableMask;
 
+    private static readonly TableState[] cycle =
+    {
+        TableState.Free,
+        TableState.Seated,
+        TableState.Ordered,
+        TableState.Served,
+        TableState.Dirty,
+    };
+
     private void Awake()
     {
         cam = Camera.main;
@@ -33,7 +42,7 @@ public class TableDebugClicker : MonoBehaviour
             Table t = GetTableUnderMouse();
             if (t != null)
             {
-                player.MoveTo(t.ServePosition, () => Debug.Log($"Kod {t.name} sam"));
+                player.Mover.MoveTo(t.ServePosition, () => Debug.Log($"Kod {t.name} sam"));
             }
         }
 
@@ -42,18 +51,30 @@ public class TableDebugClicker : MonoBehaviour
             Table t = GetTableUnderMouse();
             if (t != null)
             {
-                int count = System.Enum.GetValues(typeof(TableState)).Length;
-                int next = ((int)t.State + 1) % count;
-                t.SetState((TableState)next);
+                t.SetState(NextInCycle(t.State));
             }
         }
+    }
+
+    private TableState NextInCycle(TableState current)
+    {
+        for (int i = 0; i  < cycle.Length; i++)
+        {
+            if (cycle[i] == current)
+            {
+                return cycle[(i + 1) % cycle.Length];
+            }
+        }
+
+        return TableState.Free;
     }
 
     private Table GetTableUnderMouse()
     {
         Vector2 world = cam.ScreenToWorldPoint(Mouse.current.position.ReadValue());
 
-        //Collider2D hit = Physics2D.OverlapPoint(world);
+        // TU JE BIO PROBLEM
+        // Collider2D hit = Physics2D.OverlapPoint(world);
         Collider2D hit = Physics2D.OverlapPoint(world, interactableMask);
         Debug.Log($"Klik na {world} | pogodak: {(hit != null ? hit.name : "NISTA")}");
         // ako postoji collision izmedu misa i stola vrati stol

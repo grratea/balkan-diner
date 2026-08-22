@@ -5,8 +5,15 @@ MoveTo prima callback jer PlayerController nikad ne mora znati sto postoji u res
 
 ## DAN 2
 
-Dodala Table.cs i TableState.cs. Prazni GameObjecti se koriste kao markeri pozicije. Jednom kada zamjenim sa spriteom, smanjit cu si muke. Koristit cu Observer pattern kasnije. I imam dodan TableManager.cs koji je Singleton da imam jednu instancu jer je opseg mali. Napravljen mali tester za clicker tj. 3 testa. Prvi u kojem desni klik na stol vrti stanja automata u krug i mijenja boje. Drugi u kojem lijevi klik na stol postavi igraca na servePos te zadnji u kojem lijevi klik na pod pokrece playera. 
+Dodala Table.cs i TableState.cs. Prazni GameObjecti se koriste kao markeri pozicije. Jednom kada zamjenim sa spriteom, smanjit cu si muke. Koristit cu Observer pattern kasnije. I imam dodan TableManager.cs koji je Singleton da imam jednu instancu jer je opseg mali. 
+Napravljen mali tester za clicker tj. 3 testa. Prvi u kojem desni klik na stol vrti stanja automata u krug i mijenja boje. Drugi u kojem lijevi klik na stol postavi igraca na servePos te zadnji u kojem lijevi klik na pod pokrece playera. 
 Mijesam konstruktor i Awake jer su slicno predstavljeni, ali Unity zove konstruktor, a Awake je samo priprema. 
 Imala sam veliki problem s trecim stolom koji mi nije htio nista raditi zbog collisiona izmedu stola (layer Furniture) i poda (layer Floor). Rijeseno je na nacin da je uveden layer **Interactable** pa prije provjere poda pita ima li tog objekta, ako ima ne dira cilj kretanja.
 
 **DODATI VISE GOSTIJU PO STOLU TJ. AKO STIGNEM, ali da grupa narucuje zajedno**
+
+## DAN 3
+
+Izvukla sam kretanje u posebnu klasu Mover.cs jer sada i gost se treba kretati kao i sto se krece player. Dodan Customer, CustomerState, CustomerSpawner. Customer sam sjedne za stol i ode kada je Dirty i za 4 sekunde se pojavi novi. NOVIH CUSTOMERA NEMA AKO NEMA NITI JEDAN SLOBODAN STOL. Nije dodan RED CEKANJA. 
+
+**TODO: AKO SE STIGNE KASNIJE NAPRAVITI RED CEKANJA**

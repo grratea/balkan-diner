@@ -1,8 +1,6 @@
-using NUnit.Framework;
 using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.VisualScripting;
 
 // SINGLETON
 public class TableManager : MonoBehaviour
