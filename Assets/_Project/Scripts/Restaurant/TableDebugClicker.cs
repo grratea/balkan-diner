@@ -83,7 +83,6 @@ public class TableDebugClicker : MonoBehaviour
     }
 
 
-
     /*TRI TESTA KOJA MORA PROCI:
         - desni klik na stol - stanje i boja se mijenjaju - PASSED
         - lijevi klik na stol - player ode do kruga, log javi  - PASSED

@@ -17,3 +17,12 @@ Imala sam veliki problem s trecim stolom koji mi nije htio nista raditi zbog col
 Izvukla sam kretanje u posebnu klasu Mover.cs jer sada i gost se treba kretati kao i sto se krece player. Dodan Customer, CustomerState, CustomerSpawner. Customer sam sjedne za stol i ode kada je Dirty i za 4 sekunde se pojavi novi. NOVIH CUSTOMERA NEMA AKO NEMA NITI JEDAN SLOBODAN STOL. Nije dodan RED CEKANJA. 
 
 **TODO: AKO SE STIGNE KASNIJE NAPRAVITI RED CEKANJA**
+
+## DAN 4
+
+Dodan DishSO i MenuSO, a to su ScriptableObjects. Oni nisu objekti nego asseti. Npr. vise gostiju hoce cevape i onda oni dijele istu referencu tj. nema duplikata.  
+Dodan i Order koja je obicna C# klasa, samo sluzi za pohranu.
+Dodan TableInteractor tj. zamjenio je TableDebugClicker, sada klik na stol radi razlicite stvari. 
+TOCTOU - stanje se provjerava prije kretanja i po dolasku. 
+FindCustomerAt koristi FindObjectsByType, ali je to lose jer pretrazuje cijelu scenu. Bolje dodati referencu na Customer za svaki Table.
+Dodan jednostavan UI, ali se ne brisu prosle narudzbe.

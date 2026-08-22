@@ -63,6 +63,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Customer
   debugLabel: {fileID: 6616221023866431759}
   state: 0
+  menu: {fileID: 11400000, guid: 8ba5d8bd8e5936149863ecaf389e1e23, type: 2}
 --- !u!1 &6024255282509571351
 GameObject:
   m_ObjectHideFlags: 0

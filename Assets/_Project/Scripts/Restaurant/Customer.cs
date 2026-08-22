@@ -10,9 +10,18 @@ public class Customer : MonoBehaviour
     [SerializeField] private TextMeshPro debugLabel;
     [SerializeField] private CustomerState state = CustomerState.Entering;
 
+    [Header("ORDER")]
+    [SerializeField] private MenuSO menu;
+
     private Mover mover;
     private Table assignedTable;
     private Vector2 exitPosition;
+
+    private DishSO wantedDish;
+    private Order currentOrder;
+
+    public Table AssignedTable { get { return assignedTable; } }
+    public DishSO WantedDish { get { return wantedDish; } }
 
     private void Awake()
     {
@@ -60,9 +69,32 @@ public class Customer : MonoBehaviour
     {
         SetState(CustomerState.Seated);
         assignedTable.SetState(TableState.Seated);
-
         // SUBSCRIBE
         assignedTable.OnStateChanged += HandleTableStateChanged;
+
+        wantedDish = menu.GetRandomDish();
+        RefreshLabel(); 
+    }
+
+    public Order PlaceOrder()
+    {
+        if (state != CustomerState.Seated || wantedDish == null)
+        {
+            return null;
+        }
+
+        // SPRIJECAVA DVOSTRUKU NARUDZBU, ocekuje se da bude null jer nikad dosad nije koristen
+        // ako je koristen, onda NIJE NULL
+        if (currentOrder != null)
+        {
+            return null;
+        }
+
+        currentOrder = new Order(wantedDish, assignedTable, this);
+        assignedTable.SetState(TableState.Ordered);
+        RefreshLabel();
+
+        return currentOrder;    
     }
 
     private void HandleTableStateChanged(Table table, TableState newState)
@@ -111,7 +143,21 @@ public class Customer : MonoBehaviour
             return;
         }
 
-        debugLabel.text = state.ToString();
+        string text = state.ToString();
+
+        if (state == CustomerState.Seated && wantedDish != null) 
+        {
+            if (currentOrder == null)
+            {
+                text = $"? {wantedDish.displayName}";
+            }
+            else
+            {
+                text = $"... {wantedDish.displayName}";
+            }
+        }
+
+        debugLabel.text = text;
         debugLabel.color = state switch
         {
             CustomerState.Entering => Color.white,

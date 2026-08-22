@@ -17,7 +17,6 @@ public class CustomerSpawner : MonoBehaviour
         
     }
 
-
     void Update()
     {
         if (!spawningEnabled)
