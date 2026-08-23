@@ -41,6 +41,12 @@ public class OrderManager : MonoBehaviour
         return activeOrders.FirstOrDefault(o => o.Table == table);
     }
 
+    // zove Stove kada zavrsi s kuhanjem
+    public void NotifyOrdersChanged()
+    {
+        OnOrdersChanged?.Invoke();
+    }
+
     void Start()
     {
         

@@ -26,3 +26,9 @@ Dodan TableInteractor tj. zamjenio je TableDebugClicker, sada klik na stol radi 
 TOCTOU - stanje se provjerava prije kretanja i po dolasku. 
 FindCustomerAt koristi FindObjectsByType, ali je to lose jer pretrazuje cijelu scenu. Bolje dodati referencu na Customer za svaki Table.
 Dodan jednostavan UI, ali se ne brisu prosle narudzbe.
+
+## DAN 5
+
+Dodan treci automat za StoveState i Stove. Dodan CarryController zbog kojeg igrac nosi SAMO JEDNU STVAR, kasnije ubacim upgrade da moze imati vise. TableInteractor je upgradean tj. ima dodane nove funkcije, time malo gubi smisao naziva klase jer se ne brine samo o stolu nego sada i o stednjaku. 
+
+**Jedina stvar koju bi mogla popraviti je da igrac moze ocistiti Dirty stol dok nosi narudzbu.**

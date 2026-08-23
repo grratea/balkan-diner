@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Dish_Burek
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
   displayName: Burek
+  cookTime: 8

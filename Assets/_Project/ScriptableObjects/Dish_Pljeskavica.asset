@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Dish_Pljeskavica
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
   displayName: Pljeskavica
+  cookTime: 6

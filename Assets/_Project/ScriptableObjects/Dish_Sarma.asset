@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Dish_Sarma
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
   displayName: Sarma
+  cookTime: 12

@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Dish_Cevapi
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
   displayName: "\u0106evapi"
+  cookTime: 3
