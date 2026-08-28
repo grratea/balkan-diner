@@ -2,6 +2,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
+using System.Collections;
 
 [RequireComponent(typeof(Mover))] 
 public class Customer : MonoBehaviour
@@ -12,6 +13,11 @@ public class Customer : MonoBehaviour
 
     [Header("ORDER")]
     [SerializeField] private MenuSO menu;
+
+    [Header("EATING")]
+    [SerializeField] private float eatDuration = 4f;
+
+    private Coroutine eatingRoutine;
 
     private Mover mover;
     private Table assignedTable;
@@ -65,12 +71,15 @@ public class Customer : MonoBehaviour
         mover.MoveTo(table.SeatPosition, OnArrivedAtTable); // callback? ubiti lanac
     }
 
+    // PROVJERI
     private void OnArrivedAtTable()
     {
         SetState(CustomerState.Seated);
         assignedTable.SetState(TableState.Seated);
+        assignedTable.AssignCustomer(this);
         // SUBSCRIBE
         assignedTable.OnStateChanged += HandleTableStateChanged;
+
 
         wantedDish = menu.GetRandomDish();
         RefreshLabel(); 
@@ -109,7 +118,12 @@ public class Customer : MonoBehaviour
 
     public void Leave()
     {
+        StopEating();
         Unsubscribe();
+        if (assignedTable != null)
+        {
+            assignedTable.ClearCustomer();
+        }
 
         assignedTable = null;
         SetState(CustomerState.Leaving);
@@ -149,11 +163,11 @@ public class Customer : MonoBehaviour
         {
             if (currentOrder == null)
             {
-                text = $"? {wantedDish.displayName}";
+                text = $"{wantedDish.displayName}?";
             }
             else
             {
-                text = $"... {wantedDish.displayName}";
+                text = $"{wantedDish.displayName}... ";
             }
         }
 
@@ -164,6 +178,7 @@ public class Customer : MonoBehaviour
             CustomerState.InQueue => Color.grey,
             CustomerState.WalkingToTable => Color.yellow,
             CustomerState.Seated => Color.green,
+            CustomerState.Eating => Color.cyan,
             CustomerState.Leaving => Color.red,
             _ => Color.white,
         };
@@ -178,4 +193,59 @@ public class Customer : MonoBehaviour
         state = newState;
         RefreshLabel();
     }
+
+
+    public void ReceiveDish(Order order)
+    {
+        if (state != CustomerState.Seated)
+        {
+            return;
+        }
+
+        SetState(CustomerState.Eating);
+        eatingRoutine = StartCoroutine(EatRoutine(order));
+    }
+
+    private IEnumerator EatRoutine(Order order)
+    {
+        float timer = eatDuration;
+
+        while (timer > 0f)
+        {
+            timer -= Time.deltaTime;
+            RefreshEatingLabel(timer);
+            yield return null; // ide na sljedeci frame
+        }
+        FinishEating(order);
+    }
+
+    private void FinishEating(Order order)
+    {
+        eatingRoutine = null;
+        int payment = order.Dish.price;
+        assignedTable.LeavePayment(payment);
+        assignedTable.SetState(TableState.Dirty);
+
+        Leave();
+    }
+
+    // kada Customer postane nestrpljiv i onda ustane usred jela
+    private void StopEating()
+    {
+        if (eatingRoutine != null)
+        {
+            StopCoroutine(eatingRoutine);
+            eatingRoutine = null;
+        }
+    }
+    private void RefreshEatingLabel(float timeLeft)
+    {
+        if (debugLabel == null)
+        {
+            return;
+        }
+        debugLabel.text = $"eating... {timeLeft:F1}s";
+        debugLabel.color = Color.cyan;
+    }
+
 }

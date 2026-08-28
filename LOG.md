@@ -32,3 +32,9 @@ Dodan jednostavan UI, ali se ne brisu prosle narudzbe.
 Dodan treci automat za StoveState i Stove. Dodan CarryController zbog kojeg igrac nosi SAMO JEDNU STVAR, kasnije ubacim upgrade da moze imati vise. TableInteractor je upgradean tj. ima dodane nove funkcije, time malo gubi smisao naziva klase jer se ne brine samo o stolu nego sada i o stednjaku. 
 
 **Jedina stvar koju bi mogla popraviti je da igrac moze ocistiti Dirty stol dok nosi narudzbu.**
+
+## DAN 6
+
+Koristena je korutina za gosta dok jede. To je metoda koja se moze pauzirati i nastaviti. yield return null -> nastavi u sljedecem frame-u. Dodan Money UI, gdje odsada kada player dode na stol, odmah ga OCISTI i COLLECTA payment. Morale su se updejtat fje u Table-u, Customer-u i TableInteractor-u. I odsada Table ima referencu na trenutnog Customera. Table je vlasnik veze,a Customeri mu se prijavljuju i odjavljuju. Dish-ovi sada imaju cijene. OnMoneyChanged nosi iznos (NE STANJE).
+
+**PROMIJENITI CIJENE JELA**

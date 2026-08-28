@@ -14,6 +14,13 @@ public class Table : MonoBehaviour
     [Header("ONLY FOR DEBUG")]
     [SerializeField] private TableState state = TableState.Free;
 
+    private Customer currentCustomer;
+    private int pendingPayment;
+
+    public Customer CurrentCustomer { get {  return currentCustomer; } }
+    public bool HasPayment { get { return pendingPayment > 0; } }
+    public int PendingPayment { get { return pendingPayment; } }
+
     public TableState State { get { return state; } }
 
     public event Action<Table, TableState> OnStateChanged;
@@ -73,6 +80,13 @@ public class Table : MonoBehaviour
             return;
         }
 
+        if (state == TableState.Dirty && pendingPayment > 0)
+        {
+            debugLabel.text = $"Dirty\n{pendingPayment} €";
+            debugLabel.color = Color.yellow;
+            return;
+        }
+
         debugLabel.text = state.ToString(); 
         debugLabel.color = state switch
         {
@@ -81,8 +95,35 @@ public class Table : MonoBehaviour
             TableState.Ordered => new Color(1f, 0.5f, 0f),
             TableState.Served => Color.cyan,
             TableState.Dirty => Color.red,
+            TableState.Reserved => Color.grey,
             _ => Color.white,                         // default
         };
+    }
+
+    public void AssignCustomer(Customer customer)
+    {
+        currentCustomer = customer;
+    }
+
+    public void ClearCustomer()
+    {
+        currentCustomer = null;
+    }
+
+    // ZA GOSTA
+    public void LeavePayment(int amount)
+    {
+        pendingPayment = amount;
+        RefreshLabel();
+    }
+
+    // ZA PLAYERA
+    // ubiti isti kao Stove.TakeDish da se ne pokupi isti novac dvaput
+    public int CollectPayment()
+    {
+        int amount = pendingPayment;
+        pendingPayment = 0;
+        return amount;
     }
 
     // uvijek se crta u Scene View

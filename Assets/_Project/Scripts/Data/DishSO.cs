@@ -7,9 +7,10 @@ public class DishSO : ScriptableObject
     public string displayName = "New Dish";
 
     [Header("COOKING")]
-    [Min(0.5f)] // kao minimum
     public float cookTime = 5f;
 
-    // TODO: price
+    [Header("PRICING")]
+    public int price = 40;
+
     // TODO: icon
 }

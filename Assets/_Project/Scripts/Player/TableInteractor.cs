@@ -120,20 +120,33 @@ public class TableInteractor : MonoBehaviour
                 ServeDish(table);
                 break;
             case TableState.Dirty:
-                table.SetState(TableState.Free);
+                CleanTable(table);
                 break;
         }
+    }
+
+    private void CleanTable(Table table)
+    {
+        int payment = table.CollectPayment();
+        if (payment > 0)
+        {
+            GameManager.instance.AddMoney(payment);
+        }
+        table.SetState(TableState.Free);
     }
 
     private void ServeDish(Table table)
     {
         Order order = carry.Drop();
 
-        table.SetState(TableState.Served);
         OrderManager.instance.RemoveOrder(order);
+        table.SetState(TableState.Served);
 
-        // NEDOSTAJE TIMER ZA JEDENJE I PLACANJE
-        table.SetState(TableState.Dirty);
+        Customer customer = table.CurrentCustomer;
+        if (customer != null)
+        {
+            customer.ReceiveDish(order);
+        }
     }
 
     private void TryGoToStove(Stove stove)
@@ -233,7 +246,7 @@ public class TableInteractor : MonoBehaviour
     // JOS OVO
     private void TakeOrder(Table table)
     {
-        Customer customer = FindCustomerAt(table);
+        Customer customer = table.CurrentCustomer;
         if (customer == null)
         {
             return;
