@@ -57,6 +57,12 @@ public class CarryController : MonoBehaviour
         return order;
     }
 
+    public void ForceDrop()
+    {
+        carriedOrder = null;
+        RefreshLabel();
+    }
+
     void Update()
     {
         

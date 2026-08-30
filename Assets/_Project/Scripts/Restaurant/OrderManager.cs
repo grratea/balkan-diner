@@ -47,6 +47,12 @@ public class OrderManager : MonoBehaviour
         OnOrdersChanged?.Invoke();
     }
 
+    public void ResetForNewDay()
+    {
+        activeOrders.Clear();
+        OnOrdersChanged?.Invoke();
+    }
+
     void Start()
     {
         

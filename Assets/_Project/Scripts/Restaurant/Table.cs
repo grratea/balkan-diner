@@ -126,6 +126,15 @@ public class Table : MonoBehaviour
         return amount;
     }
 
+    public void ResetForNewDay()
+    {
+        currentCustomer = null;
+        pendingPayment = 0;
+        SetState(TableState.Free);
+        RefreshLabel();
+    }
+
+
     // uvijek se crta u Scene View
     private void OnDrawGizmos()
     {

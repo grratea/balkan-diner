@@ -36,6 +36,14 @@ public class TableManager : MonoBehaviour
 
     public bool HasFreeTable => GetFreeTable() != null;
 
+    public void ResetForNewDay()
+    {
+        foreach(Table t in tables)
+        {
+            t.ResetForNewDay();
+        }
+    }
+
     void Start()
     {
         

@@ -32,6 +32,14 @@ public class StoveManager : MonoBehaviour
 
     public bool HasEmptyStove { get {  return GetEmptyStove() != null; } }
 
+    public void ResetForNewDay()
+    {
+        foreach(Stove s in stoves)
+        {
+            s.ResetForNewDay();
+        }
+    }
+
     void Start()
     {
         

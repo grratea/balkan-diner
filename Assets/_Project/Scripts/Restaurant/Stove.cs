@@ -167,6 +167,15 @@ public class Stove : MonoBehaviour
         return order;
     }
 
+    public void ResetForNewDay()
+    {
+        currentOrder = null;
+        cookTimer = 0f;
+        totalCookTime = 0f;
+        SetState(StoveState.Empty);
+        RefreshVisuals();
+    }
+
     private void OnDrawGizmos()
     {
         if (interactPoint != null)

@@ -38,3 +38,7 @@ Dodan treci automat za StoveState i Stove. Dodan CarryController zbog kojeg igra
 Koristena je korutina za gosta dok jede. To je metoda koja se moze pauzirati i nastaviti. yield return null -> nastavi u sljedecem frame-u. Dodan Money UI, gdje odsada kada player dode na stol, odmah ga OCISTI i COLLECTA payment. Morale su se updejtat fje u Table-u, Customer-u i TableInteractor-u. I odsada Table ima referencu na trenutnog Customera. Table je vlasnik veze,a Customeri mu se prijavljuju i odjavljuju. Dish-ovi sada imaju cijene. OnMoneyChanged nosi iznos (NE STANJE).
 
 **PROMIJENITI CIJENE JELA**
+
+## DAN 7
+
+Dodan DayManager, znaci sada postoji kvota za svaki dan koja se mora ispuniti, ako se ne ispuni, igra se ponovno taj dan, ako se ispuni, ide se na sljedeci dan. Nakon svakog dana postoji reset scene. Time.timeScale = 0 -> zamrzava cijelu igru, na 1 ga vraca. Dodan HUD za dan i timer.
