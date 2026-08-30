@@ -28,7 +28,20 @@ public class OrderListUI : MonoBehaviour
         string text = "ORDERS:\n";
         foreach (Order order in orders) 
         {
-            string status = order.IsReady ? "[DONE]" : "[cooking]";
+            string status;
+            if (order.IsCancelled)
+            {
+                status = "[CANCELLED]";
+            }
+            else if (order.IsReady)
+            {
+                status = "[DONE]";
+            }
+            else
+            {
+                status = "[COOKING]";
+            }
+
             text += $"{order.Dish.displayName} {status}\n";
         }
         label.text = text;

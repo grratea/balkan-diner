@@ -31,6 +31,13 @@ public class TableInteractor : MonoBehaviour
             return;
         }
 
+        if (Mouse.current.rightButton.wasPressedThisFrame && carry.IsCarrying)
+        {
+            Order dropped = carry.Drop();
+            OrderManager.instance.RemoveOrder(dropped);
+            return;
+        }
+
         if (!Mouse.current.leftButton.wasPressedThisFrame) 
         {
             return;
@@ -101,7 +108,7 @@ public class TableInteractor : MonoBehaviour
     private bool CanServeTable(Table table)
     {
         // moze posluziti ako nosi hranu i ako je ta hrana spremna ofc i ako je to taj stol
-        return carry.IsCarrying && carry.CarriedOrder.IsReady && carry.CarriedOrder.Table == table;
+        return carry.IsCarrying && carry.CarriedOrder.IsReady && carry.CarriedOrder.Table == table && !carry.CarriedOrder.IsCancelled;
     }
 
     private void InteractWithTable(Table table)
@@ -162,7 +169,8 @@ public class TableInteractor : MonoBehaviour
     {
         // da, ako je stove prazan i ako player nesto nosi i ako hrana nije gotova)
         // STAVLJAM SIROVU NARUDBU NA PRAZAN STEDNJAK ?!
-        if (stove.IsEmpty && carry.IsCarrying && !carry.CarriedOrder.IsReady)
+        // NE KUHAJ OTKAZANO
+        if (stove.IsEmpty && carry.IsCarrying && !carry.CarriedOrder.IsReady && !carry.CarriedOrder.IsCancelled)
         {
             return true;
         }

@@ -42,3 +42,9 @@ Koristena je korutina za gosta dok jede. To je metoda koja se moze pauzirati i n
 ## DAN 7
 
 Dodan DayManager, znaci sada postoji kvota za svaki dan koja se mora ispuniti, ako se ne ispuni, igra se ponovno taj dan, ako se ispuni, ide se na sljedeci dan. Nakon svakog dana postoji reset scene. Time.timeScale = 0 -> zamrzava cijelu igru, na 1 ga vraca. Dodan HUD za dan i timer.
+
+## DAN 8
+
+Dodano strpljenje za goste, tako da mogu otici ako ih se ne posluzi, player nece biti placen ako vec napravi jelo za njih, tako da tu postoji dodatan rizik nezaradenog novca, a ulozenog vremena. Timer za strpljenje se sastoji od tri faze: zelene, zute i crvene. Igrac sada moze ispustiti jelo s desnim klikom. 
+
+**KASNIJE SREDITI BRZINU CEKANJA ITD**

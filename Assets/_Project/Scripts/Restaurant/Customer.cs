@@ -17,6 +17,15 @@ public class Customer : MonoBehaviour
     [Header("EATING")]
     [SerializeField] private float eatDuration = 4f;
 
+
+    [Header("PATIENCE")]
+    [SerializeField] private float maxPatience = 25f;
+    [SerializeField] private Transform patienceBarRoot;
+    [SerializeField] private SpriteRenderer patienceBarFill;
+
+    private float patience;
+    private bool patienceActive;
+
     private Coroutine eatingRoutine;
 
     private Mover mover;
@@ -26,6 +35,7 @@ public class Customer : MonoBehaviour
     private DishSO wantedDish;
     private Order currentOrder;
 
+    public CustomerState State { get { return state; } }
     public Table AssignedTable { get { return assignedTable; } }
     public DishSO WantedDish { get { return wantedDish; } }
 
@@ -42,6 +52,7 @@ public class Customer : MonoBehaviour
     void Start()
     {
         RefreshLabel();
+        StopPatience(); // skriven jer se akt tek kada sjedne
         TryFindSpot();
     }
 
@@ -77,12 +88,66 @@ public class Customer : MonoBehaviour
         SetState(CustomerState.Seated);
         assignedTable.SetState(TableState.Seated);
         assignedTable.AssignCustomer(this);
+
         // SUBSCRIBE
         assignedTable.OnStateChanged += HandleTableStateChanged;
 
 
         wantedDish = menu.GetRandomDish();
-        RefreshLabel(); 
+        RefreshLabel();
+
+        StartPatience();
+    }
+
+    private void StartPatience()
+    {
+        patience = maxPatience;
+        patienceActive = true;
+
+        if (patienceBarRoot != null)
+        {
+            patienceBarRoot.gameObject.SetActive(true); // prikazi
+        }
+
+        RefreshPatienceBar();
+    }
+
+    private void RefreshPatienceBar()
+    {
+        if (patienceBarRoot == null || patienceBarFill == null)
+        {
+            return;
+        }
+
+        float ratio = Mathf.Clamp01(patience / maxPatience);
+
+        Vector3 scale = patienceBarRoot.localScale;
+        scale.x = ratio;
+        patienceBarRoot.localScale = scale;
+
+        if (ratio > 0.5f)
+        {
+            patienceBarFill.color = Color.green;
+        }
+        else if (ratio > 0.25f)
+        {
+            patienceBarFill.color = Color.yellow;
+        }
+        else
+        {
+            patienceBarFill.color = Color.red;
+        }
+
+    }
+
+    private void StopPatience()
+    {
+        patienceActive = false;
+
+        if (patienceBarRoot != null)
+        {
+            patienceBarRoot.gameObject.SetActive(false); // sakrij
+        }
     }
 
     public Order PlaceOrder()
@@ -110,7 +175,7 @@ public class Customer : MonoBehaviour
     {
         // tko mijenja stanje stola, gost sam kad ode nakon sto pojede i plati
         // UBITI SAMO TESTIRANJE
-        if (newState == TableState.Dirty) 
+        if (newState == TableState.Dirty && state != CustomerState.Leaving) 
         {
             Leave();
         }
@@ -118,6 +183,7 @@ public class Customer : MonoBehaviour
 
     public void Leave()
     {
+        StopPatience();
         StopEating();
         Unsubscribe();
         if (assignedTable != null)
@@ -147,8 +213,40 @@ public class Customer : MonoBehaviour
 
     void Update()
     {
-        
+        if (!patienceActive)
+        {
+            return;
+        }
+
+        patience -= Time.deltaTime;
+        RefreshPatienceBar();
+
+        if (patience <= 0f)
+        {
+            patience = 0f;
+            LeaveAngry();
+        }
     }
+
+    private void LeaveAngry()
+    {
+        StopPatience();
+
+        // otkine se narudzba i zasteka stednjak
+        if (currentOrder != null)
+        {
+            OrderManager.instance.CancelOrder(currentOrder);
+            currentOrder = null;
+        }
+
+        if (assignedTable != null)
+        {
+            assignedTable.SetState(TableState.Dirty); // samo bez novaca
+        }
+
+        Leave();
+    }
+
 
     private void RefreshLabel()
     {
@@ -201,6 +299,8 @@ public class Customer : MonoBehaviour
         {
             return;
         }
+
+        StopPatience(); // buduci da je dobio hranu, NE CEKA VISE
 
         SetState(CustomerState.Eating);
         eatingRoutine = StartCoroutine(EatRoutine(order));

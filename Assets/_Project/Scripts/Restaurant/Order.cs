@@ -8,6 +8,7 @@ public class Order
     public Customer Customer { get; private set; }
 
     public bool IsReady { get; set; } // ZA KUHINJU
+    public bool IsCancelled { get; set; } // ZA CUSTOMER PATIENCE
 
     public Order (DishSO dish, Table table, Customer customer)
     {
@@ -15,5 +16,4 @@ public class Order
         this.Table = table;
         this.Customer = customer;
     }
-
 }
