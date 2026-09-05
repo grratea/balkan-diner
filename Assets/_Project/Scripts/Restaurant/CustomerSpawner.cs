@@ -7,38 +7,46 @@ public class CustomerSpawner : MonoBehaviour
     [SerializeField] private Transform doorPoint;
 
     [Header("SETTINGS")]
-    [SerializeField] private float spawnInterval = 4f;
     [SerializeField] private bool spawningEnabled = true;
 
     private float timer;
 
-    void Start()
-    {
-        
-    }
-
-    void Update()
+    private void Update()
     {
         if (!spawningEnabled)
         {
             return;
         }
 
+        // ne stvaraj goste kad dan nije u tijeku
+        if (DayManager.instance == null ||
+            DayManager.instance.State != DayState.Playing)
+        {
+            return;
+        }
+
         timer += Time.deltaTime;
-        if (timer >= spawnInterval)
+
+        if (timer >= GameConfig.Balance.spawnInterval)
         {
             timer = 0f;
             SpawnCustomer();
         }
     }
+
     private void SpawnCustomer()
     {
+        // nema stola -> ne stvaraj gosta uopce
         if (!TableManager.instance.HasFreeTable)
         {
             return;
         }
 
-        Customer customer = Instantiate(customerPrefab, doorPoint.position, Quaternion.identity);
+        Customer customer = Instantiate(
+            customerPrefab,
+            doorPoint.position,
+            Quaternion.identity);
+
         customer.Init(doorPoint.position);
     }
 
@@ -48,7 +56,7 @@ public class CustomerSpawner : MonoBehaviour
         {
             return;
         }
-        Gizmos.color = Color.yellow;
+        Gizmos.color = Color.white;
         Gizmos.DrawWireCube(doorPoint.position, Vector3.one * 0.5f);
     }
 }

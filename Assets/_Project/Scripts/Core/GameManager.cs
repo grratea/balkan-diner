@@ -44,4 +44,21 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
+    public bool SpendMoney(int amount)
+    {
+        if (amount <= 0 || money < amount)
+        {
+            return false;
+        }
+
+        money -= amount;
+        OnMoneyChanged?.Invoke(-amount);   // negativan iznos
+        return true;
+    }
+    public void ResetMoney()
+    {
+        money = 0;
+        OnMoneyChanged?.Invoke(0);
+    }
 }

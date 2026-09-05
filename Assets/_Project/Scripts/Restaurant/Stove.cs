@@ -122,11 +122,17 @@ public class Stove : MonoBehaviour
         }
 
         currentOrder = order;
-        totalCookTime = order.Dish.cookTime;
+
+        float multiplier = 1f;
+        if (UpgradeManager.instance != null)
+        {
+            multiplier = UpgradeManager.instance.GetCookTimeMultiplier();
+        }
+
+        totalCookTime = order.Dish.cookTime * multiplier;
         cookTimer = totalCookTime;
 
         SetState(StoveState.Cooking);
-
         return true;
     }
 

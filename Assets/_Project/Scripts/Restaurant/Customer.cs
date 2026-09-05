@@ -49,8 +49,12 @@ public class Customer : MonoBehaviour
         exitPosition = exit;
     }
 
-    void Start()
+    private void Start()
     {
+        maxPatience = GameConfig.Balance.customerPatience;
+        eatDuration = GameConfig.Balance.customerEatDuration;
+        menu = GameConfig.Menu;
+
         RefreshLabel();
         StopPatience(); // skriven jer se akt tek kada sjedne
         TryFindSpot();

@@ -1,16 +1,18 @@
-using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine;
 
-// SINGLETON
 public class TableManager : MonoBehaviour
 {
-    // jedina instanca
-    public static TableManager instance {  get; private set; }
+    public static TableManager instance { get; private set; }
 
     [SerializeField] private List<Table> tables = new List<Table>();
 
-    public IReadOnlyList<Table> Tables => tables;
+    [Header("UPGRADEs")]
+    [Tooltip("Extra tables that unlock")]
+    [SerializeField] private List<Table> extraTables = new List<Table>();
+
+    public IReadOnlyList<Table> Tables { get { return tables; } }
 
     private void Awake()
     {
@@ -19,14 +21,32 @@ public class TableManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
-
         instance = this;
 
-        if (tables.Count == 0)
+        RebuildTableList();
+    }
+
+    public void ApplyUpgrades()
+    {
+        int extra = 0;
+        if (UpgradeManager.instance != null)
         {
-            // spremi sve stolove u listu
-            tables = FindObjectsByType<Table>(FindObjectsSortMode.None).ToList();
+            extra = UpgradeManager.instance.GetExtraTableCount();
         }
+
+        for (int i = 0; i < extraTables.Count; i++)
+        {
+            extraTables[i].gameObject.SetActive(i < extra);
+        }
+
+        RebuildTableList();
+    }
+
+    private void RebuildTableList()
+    {
+        tables = FindObjectsByType<Table>(FindObjectsSortMode.None)
+            .Where(t => t.gameObject.activeInHierarchy)
+            .ToList();
     }
 
     public Table GetFreeTable()
@@ -34,23 +54,16 @@ public class TableManager : MonoBehaviour
         return tables.FirstOrDefault(t => t.IsFree);
     }
 
-    public bool HasFreeTable => GetFreeTable() != null;
+    public bool HasFreeTable
+    {
+        get { return GetFreeTable() != null; }
+    }
 
     public void ResetForNewDay()
     {
-        foreach(Table t in tables)
+        foreach (Table t in tables)
         {
             t.ResetForNewDay();
         }
-    }
-
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
     }
 }

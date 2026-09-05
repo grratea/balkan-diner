@@ -5,9 +5,6 @@ public class DayManager : MonoBehaviour
 {
     public static DayManager instance { get; private set; }
 
-    [SerializeField] private float dayDuration = 120f;
-    [SerializeField] private int baseGoal = 200;
-    [SerializeField] private int goalIncrement = 100; // jedino nez je li mi to treba
 
     private int currentDay = 1;
     private float timeLeft;
@@ -21,10 +18,14 @@ public class DayManager : MonoBehaviour
 
     public event Action<bool, int, int> OnDayEnded;
     public event Action<int, int> OnDayStarted;
-
     public int Goal
     {
-        get { return baseGoal + (currentDay - 1) * goalIncrement; }
+        get { return GameConfig.Balance.GetGoalForDay(currentDay); }
+    }
+
+    public bool IsLastDay
+    {
+        get { return currentDay >= GameConfig.Balance.totalDays; }
     }
 
     private void Awake()
@@ -59,9 +60,9 @@ public class DayManager : MonoBehaviour
         ResetWorld();
 
         earnedToday = 0;
-        timeLeft = dayDuration;
+        timeLeft = GameConfig.Balance.dayDuration;
         state = DayState.Playing;
-        Time.timeScale = 1f; // KRECE SE
+        Time.timeScale = 1f;
 
         OnDayStarted?.Invoke(currentDay, Goal);
     }
@@ -75,6 +76,9 @@ public class DayManager : MonoBehaviour
         }
         // on ih poziva
         // ne radi sam on jer ne zna stanja
+
+        // TU POZVATI
+        TableManager.instance.ApplyUpgrades();
         TableManager.instance.ResetForNewDay();
         OrderManager.instance.ResetForNewDay();
         StoveManager.instance.ResetForNewDay();
@@ -110,11 +114,13 @@ public class DayManager : MonoBehaviour
     private void EndDay()
     {
         state = DayState.Ended;
-        Time.timeScale = 0f; // stane igra, ali ne zaustavi Update
-        // globalna var
+        Time.timeScale = 0f;
 
         bool success = (earnedToday >= Goal);
+        // bool isLastDay = (currentDay >= GameConfig.Balance.totalDays);
+
         OnDayEnded?.Invoke(success, earnedToday, Goal);
+
     }
 
     public void NextDay()
