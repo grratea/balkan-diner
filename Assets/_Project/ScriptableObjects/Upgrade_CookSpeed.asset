@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee0d1dea230a9bb46abf7b54f69d3ced, type: 3}
   m_Name: Upgrade_CookSpeed
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeSO
-  displayName: New upgrade
-  description: Description
+  displayName: Faster stove
+  description: Foods are cooking faster.
   type: 0
   costPerLevel: 9600000090010000
   valuePerLevel:
   - 0.8
-  - 0.6
+  - 0.65

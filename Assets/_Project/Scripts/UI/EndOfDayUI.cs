@@ -9,6 +9,7 @@ public class EndOfDayUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI resultLabel;
     [SerializeField] private Button actionButton;
     [SerializeField] private TextMeshProUGUI actionButtonLabel;
+    [SerializeField] private ShopUI shopUI;
 
     private bool lastDaySuccess;
 
@@ -47,7 +48,7 @@ public class EndOfDayUI : MonoBehaviour
         {
             titleLabel.text = "DAY FINISHED!";
             titleLabel.color = Color.green;
-            actionButtonLabel.text = "NEXT DAY";
+            actionButtonLabel.text = "CONTINUE";
         }
         else
         {
@@ -65,7 +66,10 @@ public class EndOfDayUI : MonoBehaviour
 
         if (lastDaySuccess)
         {
-            DayManager.instance.NextDay();
+            // on samo zapocne sljedeci dan
+            // ima event kada se stigne continue
+            // on pozove fje za sljedeci dan
+            shopUI.Open();
         }
         else
         {
