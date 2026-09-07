@@ -5,7 +5,6 @@ public class DayManager : MonoBehaviour
 {
     public static DayManager instance { get; private set; }
 
-
     private int currentDay = 1;
     private float timeLeft;
     private int earnedToday;
@@ -18,6 +17,7 @@ public class DayManager : MonoBehaviour
 
     public event Action<bool, int, int> OnDayEnded;
     public event Action<int, int> OnDayStarted;
+    public event Action OnGameWon;
     public int Goal
     {
         get { return GameConfig.Balance.GetGoalForDay(currentDay); }
@@ -51,7 +51,10 @@ public class DayManager : MonoBehaviour
     void Start()
     {
         GameManager.instance.OnMoneyChanged += HandleMoneyChanged;
-        StartDay();
+        // StartDay();
+        // sad se ceka da igrac pokrene 
+        state = DayState.Ended;
+        Time.timeScale = 0f;
     }
 
 
@@ -119,8 +122,13 @@ public class DayManager : MonoBehaviour
         bool success = (earnedToday >= Goal);
         // bool isLastDay = (currentDay >= GameConfig.Balance.totalDays);
 
-        OnDayEnded?.Invoke(success, earnedToday, Goal);
+        if (success && IsLastDay)
+        {
+            OnGameWon?.Invoke();
+            return; // da se ne okine ovaj event dolje
+        }
 
+        OnDayEnded?.Invoke(success, earnedToday, Goal);
     }
 
     public void NextDay()
@@ -132,5 +140,22 @@ public class DayManager : MonoBehaviour
     public void RetryDay()
     {
         StartDay(); // isti cilj
+    }
+
+    public void StartNewGame()
+    {
+        currentDay = 1; // dan
+        GameManager.instance.ResetMoney(); // novac
+        UpgradeManager.instance.ResetAll(); // upgrade
+
+        // gosti, stol, stednjak itd i zapocne novi dan
+        StartDay(); 
+    }
+
+    public void StopGame()
+    {
+        state = DayState.Ended;
+        Time.timeScale = 0f;
+        ResetWorld();
     }
 }

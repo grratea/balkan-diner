@@ -7,6 +7,7 @@ public class PauseManager : MonoBehaviour
     public static PauseManager instance { get; private set; }
 
     [SerializeField] private GameObject pausePanel;
+    [SerializeField] private GameObject mainMenuPanel;
 
     private bool isPaused;
 
@@ -87,5 +88,21 @@ public class PauseManager : MonoBehaviour
     private void OnDestroy()
     {
         Time.timeScale = 1f;
+    }
+
+    public void QuitToMenu()
+    {
+        Resume(); // da se makne panel i nije vise isPaused
+        Time.timeScale = 0f; // ali se onda zaustavlja igra
+
+        if (DayManager.instance != null)
+        {
+            DayManager.instance.StopGame();
+        }
+
+        if (mainMenuPanel != null)
+        {
+            mainMenuPanel.SetActive(true);
+        }
     }
 }

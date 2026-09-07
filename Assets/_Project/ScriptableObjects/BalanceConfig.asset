@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: BalanceConfig
   m_EditorClassIdentifier: Assembly-CSharp::BalanceConfig
   totalDays: 5
-  dayDuration: 120
+  dayDuration: 100
   spawnInterval: 4
   customerPatience: 25
   customerEatDuration: 4
   startingTables: 3
   startingStoves: 2
-  dailyGoals: c80000002c01000090010000200300004c040000
+  dailyGoals: 6400000096000000c8000000200300004c040000
