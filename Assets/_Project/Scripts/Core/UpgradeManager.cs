@@ -130,4 +130,12 @@ public class UpgradeManager : MonoBehaviour
         }
         return null;
     }
+
+    public void ResetAll()
+    {
+        foreach (UpgradeSO u in availableUpgrades)
+        {
+            levels[u] = 0;
+        }
+    }
 }
