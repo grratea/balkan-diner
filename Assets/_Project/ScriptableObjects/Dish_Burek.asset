@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
   displayName: Burek
   cookTime: 8
+  price: 40
+  icon: {fileID: 21300000, guid: 58b09eecd7bea6f44a0969446280afe9, type: 3}

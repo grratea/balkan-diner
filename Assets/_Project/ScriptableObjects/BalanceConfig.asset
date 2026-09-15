@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 849ffbbfca67da84388174c831cf6307, type: 3}
   m_Name: BalanceConfig
   m_EditorClassIdentifier: Assembly-CSharp::BalanceConfig
-  totalDays: 5
-  dayDuration: 100
+  totalDays: 1
+  dayDuration: 50
   spawnInterval: 4
   customerPatience: 25
   customerEatDuration: 4

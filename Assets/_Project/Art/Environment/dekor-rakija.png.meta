@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 7d3c1e9d08840f247aa302cb4ca31539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2342975726473015642
+    second: dekor-rakija_0
+  - first:
+      213: 3809547798815692715
+    second: dekor-rakija_1
+  - first:
+      213: 3315864799914993335
+    second: dekor-rakija_2
+  - first:
+      213: 2763994660064675331
+    second: dekor-rakija_3
+  - first:
+      213: 4824306951649383410
+    second: dekor-rakija_4
+  - first:
+      213: 7247476443262810882
+    second: dekor-rakija_5
+  - first:
+      213: 6146817677526726168
+    second: dekor-rakija_6
+  - first:
+      213: 3092545332041936828
+    second: dekor-rakija_7
+  - first:
+      213: -5167017125785867598
+    second: dekor-rakija_8
+  - first:
+      213: 6026813045515036285
+    second: dekor-rakija_9
+  - first:
+      213: 3744609852989769022
+    second: dekor-rakija_10
+  - first:
+      213: 4857850317735373958
+    second: dekor-rakija_11
+  - first:
+      213: 1847837548756866644
+    second: dekor-rakija_12
+  - first:
+      213: 6828267829464010401
+    second: dekor-rakija_13
+  - first:
+      213: 8938637732135042148
+    second: dekor-rakija_14
+  - first:
+      213: -583806388003206722
+    second: dekor-rakija_15
+  - first:
+      213: 3997739240080645414
+    second: dekor-rakija_16
+  - first:
+      213: 2396392594148149982
+    second: dekor-rakija_17
+  - first:
+      213: 3456296806208583336
+    second: dekor-rakija_18
+  - first:
+      213: 2087485882457452133
+    second: dekor-rakija_19
+  - first:
+      213: 2619833273361513596
+    second: dekor-rakija_20
+  - first:
+      213: -958024469293125208
+    second: dekor-rakija_21
+  - first:
+      213: -54872688366414563
+    second: dekor-rakija_22
+  - first:
+      213: 2937241760591945874
+    second: dekor-rakija_23
+  - first:
+      213: -6746690502056349255
+    second: dekor-rakija_24
+  - first:
+      213: 2817990867079785093
+    second: dekor-rakija_25
+  - first:
+      213: -4997802482733237824
+    second: dekor-rakija_26
+  - first:
+      213: -2328619220181283479
+    second: dekor-rakija_27
+  - first:
+      213: 5696146433497781068
+    second: dekor-rakija_28
+  - first:
+      213: -1618269804903329348
+    second: dekor-rakija_29
+  - first:
+      213: 8698420890429162763
+    second: dekor-rakija_30
+  - first:
+      213: -5412404363600040325
+    second: dekor-rakija_31
+  - first:
+      213: 7125089460231939782
+    second: dekor-rakija_32
+  - first:
+      213: 7588462311042572785
+    second: dekor-rakija_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dekor-rakija_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 1920
+        height: 1828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5179c5720ce38020800000000000000
+      internalID: 2342975726473015642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1766
+        width: 47
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7d7470a8b3ed430800000000000000
+      internalID: 3809547798815692715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1771
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a722a771540e20800000000000000
+      internalID: 3315864799914993335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1775
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064b32cf7eab5620800000000000000
+      internalID: 2763994660064675331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1765
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3528cbc9163f240800000000000000
+      internalID: 4824306951649383410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_5
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1757
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf0b62d65349460800000000000000
+      internalID: 7247476443262810882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1743
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81672184c12ed4550800000000000000
+      internalID: 6146817677526726168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1761
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe620389deaea20800000000000000
+      internalID: 3092545332041936828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1759
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6c25dc411b48b0800000000000000
+      internalID: -5167017125785867598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1761
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d762d91988a83a350800000000000000
+      internalID: 6026813045515036285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1745
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3502ed42d687f330800000000000000
+      internalID: 3744609852989769022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1745
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ca2a0402d8a6340800000000000000
+      internalID: 4857850317735373958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1711
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4561848d576d4a910800000000000000
+      internalID: 1847837548756866644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1734
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae0e66c961e2ce50800000000000000
+      internalID: 6828267829464010401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1727
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cffcf88ab6c0c70800000000000000
+      internalID: 8938637732135042148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1699
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb90779ee27e5e7f0800000000000000
+      internalID: -583806388003206722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_16
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1711
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d95ad68a2da7730800000000000000
+      internalID: 3997739240080645414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1691
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edac3942e52b14120800000000000000
+      internalID: 2396392594148149982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_18
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1639
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6316c02ab37ff20800000000000000
+      internalID: 3456296806208583336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_19
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1621
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee481a95d38fc10800000000000000
+      internalID: 2087485882457452133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 387
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c367d4b748b5420800000000000000
+      internalID: 2619833273361513596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 225
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b6ad22d964b2f0800000000000000
+      internalID: -958024469293125208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159c06a49d0d3ff0800000000000000
+      internalID: -54872688366414563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 143
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a68fa1dd23c820800000000000000
+      internalID: 2937241760591945874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 79
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fd6fdbb0fe52a0800000000000000
+      internalID: -6746690502056349255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 127
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae59463c38b1720800000000000000
+      internalID: 2817990867079785093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_26
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 127
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9be171f1d34aab0800000000000000
+      internalID: -4997802482733237824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_27
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d82f328251fafd0800000000000000
+      internalID: -2328619220181283479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_28
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 129
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435e357007cc0f40800000000000000
+      internalID: 5696146433497781068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11ff7bf20ca89e0800000000000000
+      internalID: -1618269804903329348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_30
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 95
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050ed0b6bff6b870800000000000000
+      internalID: 8698420890429162763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_31
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 93
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e68de48e643e4b0800000000000000
+      internalID: -5412404363600040325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_32
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 71
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6210e1d1761e260800000000000000
+      internalID: 7125089460231939782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dekor-rakija_33
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e1293442af4960800000000000000
+      internalID: 7588462311042572785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dekor-rakija_0: 2342975726473015642
+      dekor-rakija_1: 3809547798815692715
+      dekor-rakija_10: 3744609852989769022
+      dekor-rakija_11: 4857850317735373958
+      dekor-rakija_12: 1847837548756866644
+      dekor-rakija_13: 6828267829464010401
+      dekor-rakija_14: 8938637732135042148
+      dekor-rakija_15: -583806388003206722
+      dekor-rakija_16: 3997739240080645414
+      dekor-rakija_17: 2396392594148149982
+      dekor-rakija_18: 3456296806208583336
+      dekor-rakija_19: 2087485882457452133
+      dekor-rakija_2: 3315864799914993335
+      dekor-rakija_20: 2619833273361513596
+      dekor-rakija_21: -958024469293125208
+      dekor-rakija_22: -54872688366414563
+      dekor-rakija_23: 2937241760591945874
+      dekor-rakija_24: -6746690502056349255
+      dekor-rakija_25: 2817990867079785093
+      dekor-rakija_26: -4997802482733237824
+      dekor-rakija_27: -2328619220181283479
+      dekor-rakija_28: 5696146433497781068
+      dekor-rakija_29: -1618269804903329348
+      dekor-rakija_3: 2763994660064675331
+      dekor-rakija_30: 8698420890429162763
+      dekor-rakija_31: -5412404363600040325
+      dekor-rakija_32: 7125089460231939782
+      dekor-rakija_33: 7588462311042572785
+      dekor-rakija_4: 4824306951649383410
+      dekor-rakija_5: 7247476443262810882
+      dekor-rakija_6: 6146817677526726168
+      dekor-rakija_7: 3092545332041936828
+      dekor-rakija_8: -5167017125785867598
+      dekor-rakija_9: 6026813045515036285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

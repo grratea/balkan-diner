@@ -1,0 +1,3107 @@
+fileFormatVersion: 2
+guid: ae7b2a84d57ca9b4b87d20dfa327cf64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -14097021205072581
+    second: gost-jez_0
+  - first:
+      213: -2385510779411324392
+    second: gost-jez_1
+  - first:
+      213: 7591396435734979377
+    second: gost-jez_2
+  - first:
+      213: -5849674717123784890
+    second: gost-jez_3
+  - first:
+      213: -3151441876025470468
+    second: gost-jez_4
+  - first:
+      213: -256615736116110185
+    second: gost-jez_5
+  - first:
+      213: -34319092183502231
+    second: gost-jez_6
+  - first:
+      213: -4234652624842714736
+    second: gost-jez_7
+  - first:
+      213: 6978411324541902398
+    second: gost-jez_8
+  - first:
+      213: -7801251411254489536
+    second: gost-jez_9
+  - first:
+      213: 1864856110656101892
+    second: gost-jez_10
+  - first:
+      213: -2504867802985627372
+    second: gost-jez_11
+  - first:
+      213: 1591808016667605065
+    second: gost-jez_12
+  - first:
+      213: 1261054002483265873
+    second: gost-jez_13
+  - first:
+      213: 296217038638053589
+    second: gost-jez_14
+  - first:
+      213: 4376529773235181537
+    second: gost-jez_15
+  - first:
+      213: 5992390889497281167
+    second: gost-jez_16
+  - first:
+      213: -1649774471597946373
+    second: gost-jez_17
+  - first:
+      213: -5146155302538039924
+    second: gost-jez_18
+  - first:
+      213: 6038373005040819943
+    second: gost-jez_19
+  - first:
+      213: 3640725576149022571
+    second: gost-jez_20
+  - first:
+      213: 8116287719252288205
+    second: gost-jez_21
+  - first:
+      213: 8539616747857885723
+    second: gost-jez_22
+  - first:
+      213: -5348038321841554738
+    second: gost-jez_23
+  - first:
+      213: 1150136783989292625
+    second: gost-jez_24
+  - first:
+      213: -1713661458647695354
+    second: gost-jez_25
+  - first:
+      213: 2695670664427187528
+    second: gost-jez_26
+  - first:
+      213: -5613558726530613047
+    second: gost-jez_27
+  - first:
+      213: -8396523309958067088
+    second: gost-jez_28
+  - first:
+      213: -1683166686411260879
+    second: gost-jez_29
+  - first:
+      213: 2067126525584838375
+    second: gost-jez_30
+  - first:
+      213: 4242932351446229592
+    second: gost-jez_31
+  - first:
+      213: 1936287552179296806
+    second: gost-jez_32
+  - first:
+      213: -4819277035118982710
+    second: gost-jez_33
+  - first:
+      213: 8623567842228477367
+    second: gost-jez_34
+  - first:
+      213: 3939101646259503112
+    second: gost-jez_35
+  - first:
+      213: 6162954773778334874
+    second: gost-jez_36
+  - first:
+      213: 2305887007379849182
+    second: gost-jez_37
+  - first:
+      213: -911099923007978491
+    second: gost-jez_38
+  - first:
+      213: -829231027969727187
+    second: gost-jez_39
+  - first:
+      213: 9054175782845474770
+    second: gost-jez_40
+  - first:
+      213: -7185506003241664591
+    second: gost-jez_41
+  - first:
+      213: 3322869992049296014
+    second: gost-jez_42
+  - first:
+      213: -691241269462092595
+    second: gost-jez_43
+  - first:
+      213: -2007688901432478080
+    second: gost-jez_44
+  - first:
+      213: -3116514072133036862
+    second: gost-jez_45
+  - first:
+      213: 2668766132994733005
+    second: gost-jez_46
+  - first:
+      213: 1873602133622223316
+    second: gost-jez_47
+  - first:
+      213: -6152444420789442154
+    second: gost-jez_48
+  - first:
+      213: 8660825432450379671
+    second: gost-jez_49
+  - first:
+      213: 557295368084622203
+    second: gost-jez_50
+  - first:
+      213: 8512748253579880732
+    second: gost-jez_51
+  - first:
+      213: -5272291606266165172
+    second: gost-jez_52
+  - first:
+      213: 6466545519090772891
+    second: gost-jez_53
+  - first:
+      213: 7701046816252932446
+    second: gost-jez_54
+  - first:
+      213: 375071906360739227
+    second: gost-jez_55
+  - first:
+      213: 6193856162203136068
+    second: gost-jez_56
+  - first:
+      213: 8972359629975393604
+    second: gost-jez_57
+  - first:
+      213: 1572367927466316766
+    second: gost-jez_58
+  - first:
+      213: 8691952470433394917
+    second: gost-jez_59
+  - first:
+      213: -8931740880498349702
+    second: gost-jez_60
+  - first:
+      213: 116637610567217583
+    second: gost-jez_61
+  - first:
+      213: -1578019010819244332
+    second: gost-jez_62
+  - first:
+      213: -6386493533219674708
+    second: gost-jez_63
+  - first:
+      213: -1814355230605013748
+    second: gost-jez_64
+  - first:
+      213: -4323007500529387649
+    second: gost-jez_65
+  - first:
+      213: 7425150529632961974
+    second: gost-jez_66
+  - first:
+      213: -5868409522843853898
+    second: gost-jez_67
+  - first:
+      213: -7167882364674152511
+    second: gost-jez_68
+  - first:
+      213: -1305018374974059755
+    second: gost-jez_69
+  - first:
+      213: -802042431791148666
+    second: gost-jez_70
+  - first:
+      213: -2005968676486091573
+    second: gost-jez_71
+  - first:
+      213: -7513939946745031543
+    second: gost-jez_72
+  - first:
+      213: 5410172631088503303
+    second: gost-jez_73
+  - first:
+      213: -5216292721506948627
+    second: gost-jez_74
+  - first:
+      213: -7419873871875146913
+    second: gost-jez_75
+  - first:
+      213: 6221778228972019818
+    second: gost-jez_76
+  - first:
+      213: 9042614792578736696
+    second: gost-jez_77
+  - first:
+      213: 991514870081069415
+    second: gost-jez_78
+  - first:
+      213: 2914504572590280040
+    second: gost-jez_79
+  - first:
+      213: 1739359560219236390
+    second: gost-jez_80
+  - first:
+      213: 7529584621225051323
+    second: gost-jez_81
+  - first:
+      213: -7135694249708456796
+    second: gost-jez_82
+  - first:
+      213: -1001020599495144047
+    second: gost-jez_83
+  - first:
+      213: 4231856463761095466
+    second: gost-jez_84
+  - first:
+      213: -9081421349935261272
+    second: gost-jez_85
+  - first:
+      213: 3434703327340601577
+    second: gost-jez_86
+  - first:
+      213: -5552346777007813614
+    second: gost-jez_87
+  - first:
+      213: 7081913451566223341
+    second: gost-jez_88
+  - first:
+      213: -6213364344691703944
+    second: gost-jez_89
+  - first:
+      213: 791767085799734778
+    second: gost-jez_90
+  - first:
+      213: -8780782838001310237
+    second: gost-jez_91
+  - first:
+      213: 3031044012417512565
+    second: gost-jez_92
+  - first:
+      213: -4435077876012383846
+    second: gost-jez_93
+  - first:
+      213: -6219565878658811730
+    second: gost-jez_94
+  - first:
+      213: 6089763044628142554
+    second: gost-jez_95
+  - first:
+      213: -1158577971994704414
+    second: gost-jez_96
+  - first:
+      213: -6308094370978585737
+    second: gost-jez_97
+  - first:
+      213: -4218614042774251733
+    second: gost-jez_98
+  - first:
+      213: 6374208807276498098
+    second: gost-jez_99
+  - first:
+      213: 7061558977414708356
+    second: gost-jez_100
+  - first:
+      213: -1328372604598112068
+    second: gost-jez_101
+  - first:
+      213: 8878129072201691948
+    second: gost-jez_102
+  - first:
+      213: -6207812245372464466
+    second: gost-jez_103
+  - first:
+      213: 7732931177423349710
+    second: gost-jez_104
+  - first:
+      213: 5979123810638809180
+    second: gost-jez_105
+  - first:
+      213: 1231069772593578798
+    second: gost-jez_106
+  - first:
+      213: -6347347270614364584
+    second: gost-jez_107
+  - first:
+      213: 6785882539233194537
+    second: gost-jez_108
+  - first:
+      213: -1257848582024112487
+    second: gost-jez_109
+  - first:
+      213: -7172189343039206361
+    second: gost-jez_110
+  - first:
+      213: -6024906619865209555
+    second: gost-jez_111
+  - first:
+      213: 6943989983988130328
+    second: gost-jez_112
+  - first:
+      213: -8145327255126771335
+    second: gost-jez_113
+  - first:
+      213: -7390887246024788472
+    second: gost-jez_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gost-jez_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1513
+        width: 139
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b353eaa75daedcff0800000000000000
+      internalID: -14097021205072581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1899
+        height: 1913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812a259c596f4eed0800000000000000
+      internalID: -2385510779411324392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1903
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133662d56de0a5960800000000000000
+      internalID: 7591396435734979377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1906
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc04276d7c1dea0800000000000000
+      internalID: -5849674717123784890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1887
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf116319f44d344d0800000000000000
+      internalID: -3151441876025470468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1889
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c160df851507cf0800000000000000
+      internalID: -256615736116110185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_6
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1891
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962736da7f2168ff0800000000000000
+      internalID: -34319092183502231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_7
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1878
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911315bfdd7b35c0800000000000000
+      internalID: -4234652624842714736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1871
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e12ef502c48d060800000000000000
+      internalID: 6978411324541902398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1853
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e49ac9c236cb390800000000000000
+      internalID: -7801251411254489536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_10
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1701
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9fd090cc41e910800000000000000
+      internalID: 1864856110656101892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1561
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4118ab9210cec3dd0800000000000000
+      internalID: -2504867802985627372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1539
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948771815fc371610800000000000000
+      internalID: 1591808016667605065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_13
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1532
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15189941fe9208110800000000000000
+      internalID: 1261054002483265873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1515
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87074c3df5c1400800000000000000
+      internalID: 296217038638053589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1516
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e79a9214ae8cbc30800000000000000
+      internalID: 4376529773235181537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_16
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1523
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c5c3d3cf392350800000000000000
+      internalID: 5992390889497281167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_17
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1505
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf985e4ebd2da19e0800000000000000
+      internalID: -1649774471597946373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2a31940f2598b0800000000000000
+      internalID: -5146155302538039924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_19
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee14c2614c9cc350800000000000000
+      internalID: 6038373005040819943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_20
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1479
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67ba034f94768230800000000000000
+      internalID: 3640725576149022571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1474
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e5e0cda8d2a070800000000000000
+      internalID: 8116287719252288205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1471
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abb06ff20d28670800000000000000
+      internalID: 8539616747857885723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1447
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca357d3b73f7c5b0800000000000000
+      internalID: -5348038321841554738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_24
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1445
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ebac4bf4b16ff00800000000000000
+      internalID: 1150136783989292625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_25
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1449
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c6049bf9d738e0800000000000000
+      internalID: -1713661458647695354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_26
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1429
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84daf90ef22f86520800000000000000
+      internalID: 2695670664427187528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1271
+        width: 129
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c049538412a812b0800000000000000
+      internalID: -5613558726530613047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1363
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c89a9498e897b80800000000000000
+      internalID: -8396523309958067088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1361
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c7fa601d034a8e0800000000000000
+      internalID: -1683166686411260879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1316
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee85477f98efac10800000000000000
+      internalID: 2067126525584838375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1269
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85227fd5e7ce1ea30800000000000000
+      internalID: 4242932351446229592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1310
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a58a215431fda10800000000000000
+      internalID: 1936287552179296806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1350
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90987f11d7e1db0800000000000000
+      internalID: -4819277035118982710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd928c43411da770800000000000000
+      internalID: 8623567842228477367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1263
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8004477b3108aa630800000000000000
+      internalID: 3939101646259503112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1323
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a940bd9c6b6378550800000000000000
+      internalID: 6162954773778334874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1288
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf701f1408200020800000000000000
+      internalID: 2305887007379849182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1405
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504493e727f1b53f0800000000000000
+      internalID: -911099923007978491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1378
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e12506cafd74f0800000000000000
+      internalID: -829231027969727187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1264
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e27647e4e6ad70800000000000000
+      internalID: 9054175782845474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff7594c54f74c90800000000000000
+      internalID: -7185506003241664591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_42
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1373
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8247e607a43d1e20800000000000000
+      internalID: 3322869992049296014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_43
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1255
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc43f9f4ab73866f0800000000000000
+      internalID: -691241269462092595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_44
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1390
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867f92d4914324e0800000000000000
+      internalID: -2007688901432478080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_45
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1215
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c41101a6faefb4d0800000000000000
+      internalID: -3116514072133036862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_46
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1343
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37eb188ac590520800000000000000
+      internalID: 2668766132994733005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_47
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1377
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d177f8b63f500a10800000000000000
+      internalID: 1873602133622223316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_48
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1365
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e28675602e9aa0800000000000000
+      internalID: -6152444420789442154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_49
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1359
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fafd208de613870800000000000000
+      internalID: 8660825432450379671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1238
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b87a14f29ebb700800000000000000
+      internalID: 557295368084622203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_51
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1237
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a4f42f6b532670800000000000000
+      internalID: 8512748253579880732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1215
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484b38c7be05d6b0800000000000000
+      internalID: -5272291606266165172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_53
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1207
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bac4d63e8cdb950800000000000000
+      internalID: 6466545519090772891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 163
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b869074d9fda60800000000000000
+      internalID: 7701046816252932446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1117
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954cdf59e5843500800000000000000
+      internalID: 375071906360739227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1167
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4407bf1fc5ff4f550800000000000000
+      internalID: 6193856162203136068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_57
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1171
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4451dbdbb89348c70800000000000000
+      internalID: 8972359629975393604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_58
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1135
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d8dc9c4c22d510800000000000000
+      internalID: 1572367927466316766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_59
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1175
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f2cc48b400a870800000000000000
+      internalID: 8691952470433394917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1107
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79af08ddf41c0480800000000000000
+      internalID: -8931740880498349702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1083
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa13f41f9416e9100800000000000000
+      internalID: 116637610567217583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_62
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1091
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de3e430210c91ae0800000000000000
+      internalID: -1578019010819244332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_63
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1078
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ac18f7fd9e57a0800000000000000
+      internalID: -6386493533219674708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1055
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8a67d78d12d6e0800000000000000
+      internalID: -1814355230605013748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1061
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77b89125979104c0800000000000000
+      internalID: -4323007500529387649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1075
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5839a011f6b0760800000000000000
+      internalID: 7425150529632961974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1013
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb5f5291a83f8ea0800000000000000
+      internalID: -5868409522843853898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1039
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c76fc567f0968c90800000000000000
+      internalID: -7167882364674152511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_69
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1023
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b4056c3b4a3ede0800000000000000
+      internalID: -1305018374974059755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_70
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 988
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815c4e58a29ed4f0800000000000000
+      internalID: -802042431791148666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 987
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc6c77ed1e5924e0800000000000000
+      internalID: -2005968676486091573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_72
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1013
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98415a2dd6f19b790800000000000000
+      internalID: -7513939946745031543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 971
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1299f75bc41b40800000000000000
+      internalID: 5410172631088503303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_74
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 993
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de96f1a28610c97b0800000000000000
+      internalID: -5216292721506948627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_75
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 991
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bfda49600570990800000000000000
+      internalID: -7419873871875146913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 941
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e229b552385650800000000000000
+      internalID: 6221778228972019818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_77
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 930
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83229587e32dd7d70800000000000000
+      internalID: 9042614792578736696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_78
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 942
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76123b4658192cd00800000000000000
+      internalID: 991514870081069415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_79
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 943
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dce719776627820800000000000000
+      internalID: 2914504572590280040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_80
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 919
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281c83fd42732810800000000000000
+      internalID: 1739359560219236390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_81
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 873
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40d5ec1557e7860800000000000000
+      internalID: 7529584621225051323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_82
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 902
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4745ce2ebe8fc90800000000000000
+      internalID: -7135694249708456796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 843
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d4e328119ab12f0800000000000000
+      internalID: -1001020599495144047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 887
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bbbee48039aba30800000000000000
+      internalID: 4231856463761095466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 861
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d57dc56f48f180800000000000000
+      internalID: -9081421349935261272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_86
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 882
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02df67a748aaf20800000000000000
+      internalID: 3434703327340601577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0aae160a12f2b0800000000000000
+      internalID: -5552346777007813614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_88
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 849
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4aaa33c2084260800000000000000
+      internalID: 7081913451566223341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_89
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 853
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fb29e5c02b5c9a0800000000000000
+      internalID: -6213364344691703944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_90
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 831
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd70f538fbecfa00800000000000000
+      internalID: 791767085799734778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 799
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e51b0884642680800000000000000
+      internalID: -8780782838001310237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 807
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57478ba587e601a20800000000000000
+      internalID: 3031044012417512565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_93
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 775
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9186197b207372c0800000000000000
+      internalID: -4435077876012383846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_94
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 720
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b66939c9afa9a0800000000000000
+      internalID: -6219565878658811730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 773
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad99c51693f238450800000000000000
+      internalID: 6089763044628142554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 751
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c9ae0977ebefe0800000000000000
+      internalID: -1158577971994704414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_97
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 675
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732e2067952578a0800000000000000
+      internalID: -6308094370978585737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_98
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 711
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2757f711e87475c0800000000000000
+      internalID: -4218614042774251733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_99
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 669
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc1e1632db57850800000000000000
+      internalID: 6374208807276498098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_100
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 672
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3649e972bff160800000000000000
+      internalID: 7061558977414708356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 633
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b195772ca09de0800000000000000
+      internalID: -1328372604598112068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_102
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 641
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2376a25a53753b70800000000000000
+      internalID: 8878129072201691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_103
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 593
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2114a37ab69d9a0800000000000000
+      internalID: -6207812245372464466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_104
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 453
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7acde5fe3e05b60800000000000000
+      internalID: 7732931177423349710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 373
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c4315d6d1af250800000000000000
+      internalID: 5979123810638809180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_106
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 199
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2349298f63a51110800000000000000
+      internalID: 1231069772593578798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4cfc7941b9e7a0800000000000000
+      internalID: -6347347270614364584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_108
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 94
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922358e573c4c2e50800000000000000
+      internalID: 6785882539233194537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_109
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 97
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996593701693b8ee0800000000000000
+      internalID: -1257848582024112487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4e4adac3477c90800000000000000
+      internalID: -7172189343039206361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_111
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e80eb95b336ca0800000000000000
+      internalID: -6024906619865209555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_112
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 27
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ab7f79120e5060800000000000000
+      internalID: 6943989983988130328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_113
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 21
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797cda640cf5fe80800000000000000
+      internalID: -8145327255126771335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-jez_114
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 30
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8063ab5553b4e6990800000000000000
+      internalID: -7390887246024788472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gost-jez_0: -14097021205072581
+      gost-jez_1: -2385510779411324392
+      gost-jez_10: 1864856110656101892
+      gost-jez_100: 7061558977414708356
+      gost-jez_101: -1328372604598112068
+      gost-jez_102: 8878129072201691948
+      gost-jez_103: -6207812245372464466
+      gost-jez_104: 7732931177423349710
+      gost-jez_105: 5979123810638809180
+      gost-jez_106: 1231069772593578798
+      gost-jez_107: -6347347270614364584
+      gost-jez_108: 6785882539233194537
+      gost-jez_109: -1257848582024112487
+      gost-jez_11: -2504867802985627372
+      gost-jez_110: -7172189343039206361
+      gost-jez_111: -6024906619865209555
+      gost-jez_112: 6943989983988130328
+      gost-jez_113: -8145327255126771335
+      gost-jez_114: -7390887246024788472
+      gost-jez_12: 1591808016667605065
+      gost-jez_13: 1261054002483265873
+      gost-jez_14: 296217038638053589
+      gost-jez_15: 4376529773235181537
+      gost-jez_16: 5992390889497281167
+      gost-jez_17: -1649774471597946373
+      gost-jez_18: -5146155302538039924
+      gost-jez_19: 6038373005040819943
+      gost-jez_2: 7591396435734979377
+      gost-jez_20: 3640725576149022571
+      gost-jez_21: 8116287719252288205
+      gost-jez_22: 8539616747857885723
+      gost-jez_23: -5348038321841554738
+      gost-jez_24: 1150136783989292625
+      gost-jez_25: -1713661458647695354
+      gost-jez_26: 2695670664427187528
+      gost-jez_27: -5613558726530613047
+      gost-jez_28: -8396523309958067088
+      gost-jez_29: -1683166686411260879
+      gost-jez_3: -5849674717123784890
+      gost-jez_30: 2067126525584838375
+      gost-jez_31: 4242932351446229592
+      gost-jez_32: 1936287552179296806
+      gost-jez_33: -4819277035118982710
+      gost-jez_34: 8623567842228477367
+      gost-jez_35: 3939101646259503112
+      gost-jez_36: 6162954773778334874
+      gost-jez_37: 2305887007379849182
+      gost-jez_38: -911099923007978491
+      gost-jez_39: -829231027969727187
+      gost-jez_4: -3151441876025470468
+      gost-jez_40: 9054175782845474770
+      gost-jez_41: -7185506003241664591
+      gost-jez_42: 3322869992049296014
+      gost-jez_43: -691241269462092595
+      gost-jez_44: -2007688901432478080
+      gost-jez_45: -3116514072133036862
+      gost-jez_46: 2668766132994733005
+      gost-jez_47: 1873602133622223316
+      gost-jez_48: -6152444420789442154
+      gost-jez_49: 8660825432450379671
+      gost-jez_5: -256615736116110185
+      gost-jez_50: 557295368084622203
+      gost-jez_51: 8512748253579880732
+      gost-jez_52: -5272291606266165172
+      gost-jez_53: 6466545519090772891
+      gost-jez_54: 7701046816252932446
+      gost-jez_55: 375071906360739227
+      gost-jez_56: 6193856162203136068
+      gost-jez_57: 8972359629975393604
+      gost-jez_58: 1572367927466316766
+      gost-jez_59: 8691952470433394917
+      gost-jez_6: -34319092183502231
+      gost-jez_60: -8931740880498349702
+      gost-jez_61: 116637610567217583
+      gost-jez_62: -1578019010819244332
+      gost-jez_63: -6386493533219674708
+      gost-jez_64: -1814355230605013748
+      gost-jez_65: -4323007500529387649
+      gost-jez_66: 7425150529632961974
+      gost-jez_67: -5868409522843853898
+      gost-jez_68: -7167882364674152511
+      gost-jez_69: -1305018374974059755
+      gost-jez_7: -4234652624842714736
+      gost-jez_70: -802042431791148666
+      gost-jez_71: -2005968676486091573
+      gost-jez_72: -7513939946745031543
+      gost-jez_73: 5410172631088503303
+      gost-jez_74: -5216292721506948627
+      gost-jez_75: -7419873871875146913
+      gost-jez_76: 6221778228972019818
+      gost-jez_77: 9042614792578736696
+      gost-jez_78: 991514870081069415
+      gost-jez_79: 2914504572590280040
+      gost-jez_8: 6978411324541902398
+      gost-jez_80: 1739359560219236390
+      gost-jez_81: 7529584621225051323
+      gost-jez_82: -7135694249708456796
+      gost-jez_83: -1001020599495144047
+      gost-jez_84: 4231856463761095466
+      gost-jez_85: -9081421349935261272
+      gost-jez_86: 3434703327340601577
+      gost-jez_87: -5552346777007813614
+      gost-jez_88: 7081913451566223341
+      gost-jez_89: -6213364344691703944
+      gost-jez_9: -7801251411254489536
+      gost-jez_90: 791767085799734778
+      gost-jez_91: -8780782838001310237
+      gost-jez_92: 3031044012417512565
+      gost-jez_93: -4435077876012383846
+      gost-jez_94: -6219565878658811730
+      gost-jez_95: 6089763044628142554
+      gost-jez_96: -1158577971994704414
+      gost-jez_97: -6308094370978585737
+      gost-jez_98: -4218614042774251733
+      gost-jez_99: 6374208807276498098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

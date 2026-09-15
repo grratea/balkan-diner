@@ -13,6 +13,7 @@ public class Table : MonoBehaviour
 
     [Header("ONLY FOR DEBUG")]
     [SerializeField] private TableState state = TableState.Free;
+    [SerializeField] private bool showDebugLabel = false;
 
     private Customer currentCustomer;
     private int pendingPayment;
@@ -79,6 +80,13 @@ public class Table : MonoBehaviour
         {
             return;
         }
+
+        if (!showDebugLabel)
+        {
+            debugLabel.gameObject.SetActive(false);
+            return;
+        }
+        debugLabel.gameObject.SetActive(true);
 
         if (state == TableState.Dirty && pendingPayment > 0)
         {

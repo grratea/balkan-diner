@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: add7bbff5794ac9468db7dc0255e2415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9208104658334489790
+    second: gost-vuk_0
+  - first:
+      213: 7927050420066948026
+    second: gost-vuk_1
+  - first:
+      213: -2602823404600574879
+    second: gost-vuk_2
+  - first:
+      213: -1475383153872672661
+    second: gost-vuk_3
+  - first:
+      213: 5282264612734595106
+    second: gost-vuk_4
+  - first:
+      213: 6900648027870355123
+    second: gost-vuk_5
+  - first:
+      213: 4342898465194690655
+    second: gost-vuk_6
+  - first:
+      213: 8759599421724368792
+    second: gost-vuk_7
+  - first:
+      213: 3700698343809456051
+    second: gost-vuk_8
+  - first:
+      213: -8918728935793991244
+    second: gost-vuk_9
+  - first:
+      213: -1083158891221915306
+    second: gost-vuk_10
+  - first:
+      213: -4440886584589060906
+    second: gost-vuk_11
+  - first:
+      213: -1442881967582496501
+    second: gost-vuk_12
+  - first:
+      213: -2766598128295851432
+    second: gost-vuk_13
+  - first:
+      213: 850932801265365606
+    second: gost-vuk_14
+  - first:
+      213: 5200952985009263146
+    second: gost-vuk_15
+  - first:
+      213: 474445105562424283
+    second: gost-vuk_16
+  - first:
+      213: -6701868083453061732
+    second: gost-vuk_17
+  - first:
+      213: -7700985048775566249
+    second: gost-vuk_18
+  - first:
+      213: -1955487881509946545
+    second: gost-vuk_19
+  - first:
+      213: 3014912830262801522
+    second: gost-vuk_20
+  - first:
+      213: 3644480642107440842
+    second: gost-vuk_21
+  - first:
+      213: -1590712880203586479
+    second: gost-vuk_22
+  - first:
+      213: -8549289046843802930
+    second: gost-vuk_23
+  - first:
+      213: -8718817747743100206
+    second: gost-vuk_24
+  - first:
+      213: -8561671109150251000
+    second: gost-vuk_25
+  - first:
+      213: -1156012551278666266
+    second: gost-vuk_26
+  - first:
+      213: -1493621763158244419
+    second: gost-vuk_27
+  - first:
+      213: 5317445913719256332
+    second: gost-vuk_28
+  - first:
+      213: -5969194724659021871
+    second: gost-vuk_29
+  - first:
+      213: 8147659118300249150
+    second: gost-vuk_30
+  - first:
+      213: -3796241021099600423
+    second: gost-vuk_31
+  - first:
+      213: -2752649616653994236
+    second: gost-vuk_32
+  - first:
+      213: 6091809280472772371
+    second: gost-vuk_33
+  - first:
+      213: 9028624437109554384
+    second: gost-vuk_34
+  - first:
+      213: -2619905210208138582
+    second: gost-vuk_35
+  - first:
+      213: 2406683630219064047
+    second: gost-vuk_36
+  - first:
+      213: -6922902410014469042
+    second: gost-vuk_37
+  - first:
+      213: 8368864866234469910
+    second: gost-vuk_38
+  - first:
+      213: 8202891896191696938
+    second: gost-vuk_39
+  - first:
+      213: -4147414301116942014
+    second: gost-vuk_40
+  - first:
+      213: -8350269087657682159
+    second: gost-vuk_41
+  - first:
+      213: 1443250473047139283
+    second: gost-vuk_42
+  - first:
+      213: 7679138668562063644
+    second: gost-vuk_43
+  - first:
+      213: -9011010778907027536
+    second: gost-vuk_44
+  - first:
+      213: -6757580035429581926
+    second: gost-vuk_45
+  - first:
+      213: 7634754249814715956
+    second: gost-vuk_46
+  - first:
+      213: -7666422351383588166
+    second: gost-vuk_47
+  - first:
+      213: 8086486294733505952
+    second: gost-vuk_48
+  - first:
+      213: 385121506607684651
+    second: gost-vuk_49
+  - first:
+      213: -7977285329644907749
+    second: gost-vuk_50
+  - first:
+      213: -8972812983045226142
+    second: gost-vuk_51
+  - first:
+      213: 1109201728589677743
+    second: gost-vuk_52
+  - first:
+      213: 1021631291865386133
+    second: gost-vuk_53
+  - first:
+      213: 7160171219349342030
+    second: gost-vuk_54
+  - first:
+      213: 7667793176425236910
+    second: gost-vuk_55
+  - first:
+      213: 2174078659693429426
+    second: gost-vuk_56
+  - first:
+      213: -2982219989730056140
+    second: gost-vuk_57
+  - first:
+      213: 1326673345038265676
+    second: gost-vuk_58
+  - first:
+      213: 1513649153697823978
+    second: gost-vuk_59
+  - first:
+      213: 2029089418942668175
+    second: gost-vuk_60
+  - first:
+      213: -5259009899855100800
+    second: gost-vuk_61
+  - first:
+      213: -1434394780595863214
+    second: gost-vuk_62
+  - first:
+      213: 3990254728905736667
+    second: gost-vuk_63
+  - first:
+      213: -2921232078438968656
+    second: gost-vuk_64
+  - first:
+      213: 4589009940473441490
+    second: gost-vuk_65
+  - first:
+      213: -8536294247320162362
+    second: gost-vuk_66
+  - first:
+      213: 3809745109088662561
+    second: gost-vuk_67
+  - first:
+      213: -7135173557755439692
+    second: gost-vuk_68
+  - first:
+      213: 7948817160292679653
+    second: gost-vuk_69
+  - first:
+      213: -3694589563146082956
+    second: gost-vuk_70
+  - first:
+      213: 6279553662815208446
+    second: gost-vuk_71
+  - first:
+      213: -5510017008119619683
+    second: gost-vuk_72
+  - first:
+      213: 3278080704161045914
+    second: gost-vuk_73
+  - first:
+      213: -3283523393376438244
+    second: gost-vuk_74
+  - first:
+      213: -2698584266810958062
+    second: gost-vuk_75
+  - first:
+      213: 926909533560433032
+    second: gost-vuk_76
+  - first:
+      213: 6037397927557695417
+    second: gost-vuk_77
+  - first:
+      213: 773317587677918647
+    second: gost-vuk_78
+  - first:
+      213: 5213557509244954478
+    second: gost-vuk_79
+  - first:
+      213: 8050619221353695816
+    second: gost-vuk_80
+  - first:
+      213: -6986476321401725850
+    second: gost-vuk_81
+  - first:
+      213: 7114305129360192161
+    second: gost-vuk_82
+  - first:
+      213: -8428755179303610704
+    second: gost-vuk_83
+  - first:
+      213: 526738828404418831
+    second: gost-vuk_84
+  - first:
+      213: -8552830746274463696
+    second: gost-vuk_85
+  - first:
+      213: -2331430361895133570
+    second: gost-vuk_86
+  - first:
+      213: 3346575834651686057
+    second: gost-vuk_87
+  - first:
+      213: 8176020292165529443
+    second: gost-vuk_88
+  - first:
+      213: -3532819015811601548
+    second: gost-vuk_89
+  - first:
+      213: 5509169302880421572
+    second: gost-vuk_90
+  - first:
+      213: 5957806185756745048
+    second: gost-vuk_91
+  - first:
+      213: -6752152443590092216
+    second: gost-vuk_92
+  - first:
+      213: 9087108688210907074
+    second: gost-vuk_93
+  - first:
+      213: -1022120283687272168
+    second: gost-vuk_94
+  - first:
+      213: -2645647520985657782
+    second: gost-vuk_95
+  - first:
+      213: 6106617995156690259
+    second: gost-vuk_96
+  - first:
+      213: 4579613596426250570
+    second: gost-vuk_97
+  - first:
+      213: -6398643911097458492
+    second: gost-vuk_98
+  - first:
+      213: -4471313134062351314
+    second: gost-vuk_99
+  - first:
+      213: -4234031864574883232
+    second: gost-vuk_100
+  - first:
+      213: -8768170239255035695
+    second: gost-vuk_101
+  - first:
+      213: 8205369712521449606
+    second: gost-vuk_102
+  - first:
+      213: -5754988254469634448
+    second: gost-vuk_103
+  - first:
+      213: -2131954307664846392
+    second: gost-vuk_104
+  - first:
+      213: 7208116395509738956
+    second: gost-vuk_105
+  - first:
+      213: -2009975522603917940
+    second: gost-vuk_106
+  - first:
+      213: -7112745834269312730
+    second: gost-vuk_107
+  - first:
+      213: -8563943726594563130
+    second: gost-vuk_108
+  - first:
+      213: -8078925769054344549
+    second: gost-vuk_109
+  - first:
+      213: 2708605946462647024
+    second: gost-vuk_110
+  - first:
+      213: -5338787718804463930
+    second: gost-vuk_111
+  - first:
+      213: -228398944332961796
+    second: gost-vuk_112
+  - first:
+      213: -8275419985232169218
+    second: gost-vuk_113
+  - first:
+      213: 8861826044568399333
+    second: gost-vuk_114
+  - first:
+      213: -7231381419948404804
+    second: gost-vuk_115
+  - first:
+      213: -3938621161253675377
+    second: gost-vuk_116
+  - first:
+      213: 6606134055393907380
+    second: gost-vuk_117
+  - first:
+      213: 1095381768664483578
+    second: gost-vuk_118
+  - first:
+      213: 2758863033190084114
+    second: gost-vuk_119
+  - first:
+      213: -3829630559803489137
+    second: gost-vuk_120
+  - first:
+      213: -4424261428325307730
+    second: gost-vuk_121
+  - first:
+      213: 7413674841019508381
+    second: gost-vuk_122
+  - first:
+      213: 2309263503514317255
+    second: gost-vuk_123
+  - first:
+      213: -5512039531147770234
+    second: gost-vuk_124
+  - first:
+      213: -8344153146476728148
+    second: gost-vuk_125
+  - first:
+      213: 5222028966539856839
+    second: gost-vuk_126
+  - first:
+      213: -7616179246138777998
+    second: gost-vuk_127
+  - first:
+      213: -7033608084607862448
+    second: gost-vuk_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gost-vuk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 335
+        height: 1886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436a51999d363080800000000000000
+      internalID: -9208104658334489790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 1661
+        height: 1911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab393b49b5a820e60800000000000000
+      internalID: 7927050420066948026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1853
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb5b367e9e0ebd0800000000000000
+      internalID: -2602823404600574879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1895
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e2d5a6d2668be0800000000000000
+      internalID: -1475383153872672661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_4
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1905
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22079abbdaf5e4940800000000000000
+      internalID: 5282264612734595106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1887
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be5635f1d604cf50800000000000000
+      internalID: 6900648027870355123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1877
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c489f423154c30800000000000000
+      internalID: 4342898465194690655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_7
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1875
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f19928349509970800000000000000
+      internalID: 8759599421724368792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_8
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1359
+        width: 363
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b793ab59858b5330800000000000000
+      internalID: 3700698343809456051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1825
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1600e494f4a3480800000000000000
+      internalID: -8918728935793991244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_10
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1783
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659696d2ab8d7f0f0800000000000000
+      internalID: -1083158891221915306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1711
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d475cd1e2dce52c0800000000000000
+      internalID: -4440886584589060906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1700
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09bd65ce7ad9fbe0800000000000000
+      internalID: -1442881967582496501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1703
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4aae09a11b99d0800000000000000
+      internalID: -2766598128295851432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_14
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1726
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627623dfde1fcb00800000000000000
+      internalID: 850932801265365606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_15
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1685
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221cfc1f2f7d2840800000000000000
+      internalID: 5200952985009263146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1708
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3987e4f41959600800000000000000
+      internalID: 474445105562424283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_17
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1633
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9590427c7e2ef2a0800000000000000
+      internalID: -6701868083453061732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1713
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c532356ea902590800000000000000
+      internalID: -7700985048775566249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1691
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb404e126bcd4e0800000000000000
+      internalID: -1955487881509946545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_20
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1703
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274f494de3f17d920800000000000000
+      internalID: 3014912830262801522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1669
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef99fa5dbc39230800000000000000
+      internalID: 3644480642107440842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1663
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154a3db3017ace9e0800000000000000
+      internalID: -1590712880203586479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_23
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1658
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabcb078e2da5980800000000000000
+      internalID: -8549289046843802930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1647
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b664e379800780800000000000000
+      internalID: -8718817747743100206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1649
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ef57ec75de2980800000000000000
+      internalID: -8561671109150251000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1650
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed542d95b405ffe0800000000000000
+      internalID: -1156012551278666266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_27
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1634
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db309228be6954be0800000000000000
+      internalID: -1493621763158244419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1615
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b69fa2ec5bc940800000000000000
+      internalID: 5317445913719256332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1623
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d730992609292da0800000000000000
+      internalID: -5969194724659021871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1543
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3249cccc421170800000000000000
+      internalID: 8147659118300249150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1558
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5979797ea015bc0800000000000000
+      internalID: -3796241021099600423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_32
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1573
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407393002cf9cc9d0800000000000000
+      internalID: -2752649616653994236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1530
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe10ac3447a8450800000000000000
+      internalID: 6091809280472772371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1545
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc7350071e1c4d70800000000000000
+      internalID: 9028624437109554384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_35
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1549
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4958971a34abd0800000000000000
+      internalID: -2619905210208138582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_36
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1527
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe274f1b202466120800000000000000
+      internalID: 2406683630219064047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_37
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1527
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44546cefe8ecef90800000000000000
+      internalID: -6922902410014469042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1510
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e0725714e242470800000000000000
+      internalID: 8368864866234469910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1503
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20cf6308b686d170800000000000000
+      internalID: 8202891896191696938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1509
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249bc85caac6176c0800000000000000
+      internalID: -4147414301116942014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_41
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1487
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b1d33a182ed1c80800000000000000
+      internalID: -8350269087657682159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_42
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1481
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a3e798a4770410800000000000000
+      internalID: 1443250473047139283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1425
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ab98eee7c19a60800000000000000
+      internalID: 7679138668562063644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1430
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d700607572f280800000000000000
+      internalID: -9011010778907027536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1453
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb2fec2c04832a0800000000000000
+      internalID: -6757580035429581926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_46
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1429
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2c9f1a8814f960800000000000000
+      internalID: 7634754249814715956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1389
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab29aa76d756b9590800000000000000
+      internalID: -7666422351383588166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1406
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5c7a6e078f83070800000000000000
+      internalID: 8086486294733505952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_49
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1405
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cd6b448f9385500800000000000000
+      internalID: 385121506607684651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_50
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1383
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139496124dfa4190800000000000000
+      internalID: -7977285329644907749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_51
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1364
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618395c12a2a7380800000000000000
+      internalID: -8972812983045226142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_52
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1281
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa446d8681da46f00800000000000000
+      internalID: 1109201728589677743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1311
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4f034f309d2e00800000000000000
+      internalID: 1021631291865386133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1336
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470b4ca9c90e5360800000000000000
+      internalID: 7160171219349342030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_55
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea98dfba449796a60800000000000000
+      internalID: 7667793176425236910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_56
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2c8c0b501eb2e10800000000000000
+      internalID: 2174078659693429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1285
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438221648b60d96d0800000000000000
+      internalID: -2982219989730056140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_58
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1295
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d2cf7d06a496210800000000000000
+      internalID: 1326673345038265676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_59
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1266
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbab8b2ef810510800000000000000
+      internalID: 1513649153697823978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_60
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1287
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd4917316c82c10800000000000000
+      internalID: 2029089418942668175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1245
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084cfd80c5e3407b0800000000000000
+      internalID: -5259009899855100800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_62
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1263
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c8eafb81081ce0800000000000000
+      internalID: -1434394780595863214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_63
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1253
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1cfbfd88b306730800000000000000
+      internalID: 3990254728905736667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 745
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b25b2ae6e2b577d0800000000000000
+      internalID: -2921232078438968656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1092
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce7ac2a307faf30800000000000000
+      internalID: 4589009940473441490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1201
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf654afb9df88980800000000000000
+      internalID: -8536294247320162362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1183
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f208edfeeed430800000000000000
+      internalID: 3809745109088662561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1205
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b51a37f375cafc90800000000000000
+      internalID: -7135173557755439692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1222
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef36c7b71fdf4e60800000000000000
+      internalID: 7948817160292679653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1188
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475efc9fd5e2abcc0800000000000000
+      internalID: -3694589563146082956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1127
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef38a1c29c4752750800000000000000
+      internalID: 6279553662815208446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_72
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1054
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f5ba479bc7883b0800000000000000
+      internalID: -5510017008119619683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 663
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd49c48051e7d20800000000000000
+      internalID: 3278080704161045914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1031
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18bc1eded49e62d0800000000000000
+      internalID: -3283523393376438244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_75
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f564438e3bc8ad0800000000000000
+      internalID: -2698584266810958062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1221
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889eace4f4b0ddc00800000000000000
+      internalID: 926909533560433032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 967
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b781c77d6529c350800000000000000
+      internalID: 6037397927557695417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 737
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5ba10bf306bba00800000000000000
+      internalID: 773317587677918647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1033
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ad9a9ee64a5840800000000000000
+      internalID: 5213557509244954478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_80
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 749
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a08be178b89bf60800000000000000
+      internalID: 8050619221353695816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 695
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1c273dcc0b0f90800000000000000
+      internalID: -6986476321401725850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_82
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1151
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2f04b62d61bb260800000000000000
+      internalID: 7114305129360192161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_83
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1139
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6dfd662db070b80800000000000000
+      internalID: -8428755179303610704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_84
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 673
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0963747c2a5f4700800000000000000
+      internalID: 526738828404418831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_85
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1185
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030854840cd3e4980800000000000000
+      internalID: -8552830746274463696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_86
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1089
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1ea4307815afd0800000000000000
+      internalID: -2331430361895133570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_87
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 671
+        width: 329
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4f15e9dfc617e20800000000000000
+      internalID: 3346575834651686057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_88
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1059
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f69e6232f077170800000000000000
+      internalID: 8176020292165529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_89
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1105
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bedc2a2d7e8fec0800000000000000
+      internalID: -3532819015811601548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_90
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68ca9ca40847c40800000000000000
+      internalID: 5509169302880421572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_91
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1201
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd7aef8216ea250800000000000000
+      internalID: 5957806185756745048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_92
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 630
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ad68280298b42a0800000000000000
+      internalID: -6752152443590092216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_93
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 613
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf4d24d435eb1e70800000000000000
+      internalID: 9087108688210907074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_94
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 641
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81149157403b0d1f0800000000000000
+      internalID: -1022120283687272168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 631
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ec1cec895c84bd0800000000000000
+      internalID: -2645647520985657782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 614
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355925c56b01fb450800000000000000
+      internalID: 6106617995156690259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_97
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 605
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4929875d4e0e8f30800000000000000
+      internalID: 4579613596426250570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_98
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 617
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0e1daa3437337a0800000000000000
+      internalID: -6398643911097458492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_99
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 605
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ccca40564b2f1c0800000000000000
+      internalID: -4471313134062351314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_100
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 581
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a4458b372bd35c0800000000000000
+      internalID: -4234031864574883232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_101
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 518
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04d078f93315680800000000000000
+      internalID: -8768170239255035695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_102
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 585
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680179597445fd170800000000000000
+      internalID: 8205369712521449606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 568
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076cacd7cac2220b0800000000000000
+      internalID: -5754988254469634448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_104
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 575
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e54e4ad6c962e0800000000000000
+      internalID: -2131954307664846392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_105
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 551
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde606ebaf580460800000000000000
+      internalID: 7208116395509738956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_106
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d96f759e12b14e0800000000000000
+      internalID: -2009975522603917940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 506
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629fcb249537a4d90800000000000000
+      internalID: -7112745834269312730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 483
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c365ebed82c62980800000000000000
+      internalID: -8563943726594563130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_109
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 470
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a24c821d3e1ef80800000000000000
+      internalID: -8078925769054344549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_110
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ba6be1c6e69520800000000000000
+      internalID: 2708605946462647024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 481
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce11791bd0d8e5b0800000000000000
+      internalID: -5338787718804463930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_112
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 487
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a5f7ce5094dcf0800000000000000
+      internalID: -228398944332961796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_113
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 462
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef671155e5dc72d80800000000000000
+      internalID: -8275419985232169218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_114
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 471
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ededc7e5d78bfa70800000000000000
+      internalID: 8861826044568399333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_115
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 482
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8d9c79e8f4ab90800000000000000
+      internalID: -7231381419948404804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_116
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e53aaebe43759c0800000000000000
+      internalID: -3938621161253675377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_117
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 441
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b25d5e2ce3bdab50800000000000000
+      internalID: 6606134055393907380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_118
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 425
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af68fae3ae3933f00800000000000000
+      internalID: 1095381768664483578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_119
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 387
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e6045cf43794620800000000000000
+      internalID: 2758863033190084114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_120
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 415
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ceedcb4b6adac0800000000000000
+      internalID: -3829630559803489137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_121
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 415
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa2533fbadd992c0800000000000000
+      internalID: -4424261428325307730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 371
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e7331df9a2e660800000000000000
+      internalID: 7413674841019508381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_123
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 374
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1beb3ebe62c0020800000000000000
+      internalID: 2309263503514317255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_124
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 85
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c60e104d4183b0800000000000000
+      internalID: -5512039531147770234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_125
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0fbc82cec933c80800000000000000
+      internalID: -8344153146476728148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb88657daf587840800000000000000
+      internalID: 5222028966539856839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_127
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1230f355ed4690800000000000000
+      internalID: -7616179246138777998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-vuk_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 13
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f1a376ba936e90800000000000000
+      internalID: -7033608084607862448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gost-vuk_0: -9208104658334489790
+      gost-vuk_1: 7927050420066948026
+      gost-vuk_10: -1083158891221915306
+      gost-vuk_100: -4234031864574883232
+      gost-vuk_101: -8768170239255035695
+      gost-vuk_102: 8205369712521449606
+      gost-vuk_103: -5754988254469634448
+      gost-vuk_104: -2131954307664846392
+      gost-vuk_105: 7208116395509738956
+      gost-vuk_106: -2009975522603917940
+      gost-vuk_107: -7112745834269312730
+      gost-vuk_108: -8563943726594563130
+      gost-vuk_109: -8078925769054344549
+      gost-vuk_11: -4440886584589060906
+      gost-vuk_110: 2708605946462647024
+      gost-vuk_111: -5338787718804463930
+      gost-vuk_112: -228398944332961796
+      gost-vuk_113: -8275419985232169218
+      gost-vuk_114: 8861826044568399333
+      gost-vuk_115: -7231381419948404804
+      gost-vuk_116: -3938621161253675377
+      gost-vuk_117: 6606134055393907380
+      gost-vuk_118: 1095381768664483578
+      gost-vuk_119: 2758863033190084114
+      gost-vuk_12: -1442881967582496501
+      gost-vuk_120: -3829630559803489137
+      gost-vuk_121: -4424261428325307730
+      gost-vuk_122: 7413674841019508381
+      gost-vuk_123: 2309263503514317255
+      gost-vuk_124: -5512039531147770234
+      gost-vuk_125: -8344153146476728148
+      gost-vuk_126: 5222028966539856839
+      gost-vuk_127: -7616179246138777998
+      gost-vuk_128: -7033608084607862448
+      gost-vuk_13: -2766598128295851432
+      gost-vuk_14: 850932801265365606
+      gost-vuk_15: 5200952985009263146
+      gost-vuk_16: 474445105562424283
+      gost-vuk_17: -6701868083453061732
+      gost-vuk_18: -7700985048775566249
+      gost-vuk_19: -1955487881509946545
+      gost-vuk_2: -2602823404600574879
+      gost-vuk_20: 3014912830262801522
+      gost-vuk_21: 3644480642107440842
+      gost-vuk_22: -1590712880203586479
+      gost-vuk_23: -8549289046843802930
+      gost-vuk_24: -8718817747743100206
+      gost-vuk_25: -8561671109150251000
+      gost-vuk_26: -1156012551278666266
+      gost-vuk_27: -1493621763158244419
+      gost-vuk_28: 5317445913719256332
+      gost-vuk_29: -5969194724659021871
+      gost-vuk_3: -1475383153872672661
+      gost-vuk_30: 8147659118300249150
+      gost-vuk_31: -3796241021099600423
+      gost-vuk_32: -2752649616653994236
+      gost-vuk_33: 6091809280472772371
+      gost-vuk_34: 9028624437109554384
+      gost-vuk_35: -2619905210208138582
+      gost-vuk_36: 2406683630219064047
+      gost-vuk_37: -6922902410014469042
+      gost-vuk_38: 8368864866234469910
+      gost-vuk_39: 8202891896191696938
+      gost-vuk_4: 5282264612734595106
+      gost-vuk_40: -4147414301116942014
+      gost-vuk_41: -8350269087657682159
+      gost-vuk_42: 1443250473047139283
+      gost-vuk_43: 7679138668562063644
+      gost-vuk_44: -9011010778907027536
+      gost-vuk_45: -6757580035429581926
+      gost-vuk_46: 7634754249814715956
+      gost-vuk_47: -7666422351383588166
+      gost-vuk_48: 8086486294733505952
+      gost-vuk_49: 385121506607684651
+      gost-vuk_5: 6900648027870355123
+      gost-vuk_50: -7977285329644907749
+      gost-vuk_51: -8972812983045226142
+      gost-vuk_52: 1109201728589677743
+      gost-vuk_53: 1021631291865386133
+      gost-vuk_54: 7160171219349342030
+      gost-vuk_55: 7667793176425236910
+      gost-vuk_56: 2174078659693429426
+      gost-vuk_57: -2982219989730056140
+      gost-vuk_58: 1326673345038265676
+      gost-vuk_59: 1513649153697823978
+      gost-vuk_6: 4342898465194690655
+      gost-vuk_60: 2029089418942668175
+      gost-vuk_61: -5259009899855100800
+      gost-vuk_62: -1434394780595863214
+      gost-vuk_63: 3990254728905736667
+      gost-vuk_64: -2921232078438968656
+      gost-vuk_65: 4589009940473441490
+      gost-vuk_66: -8536294247320162362
+      gost-vuk_67: 3809745109088662561
+      gost-vuk_68: -7135173557755439692
+      gost-vuk_69: 7948817160292679653
+      gost-vuk_7: 8759599421724368792
+      gost-vuk_70: -3694589563146082956
+      gost-vuk_71: 6279553662815208446
+      gost-vuk_72: -5510017008119619683
+      gost-vuk_73: 3278080704161045914
+      gost-vuk_74: -3283523393376438244
+      gost-vuk_75: -2698584266810958062
+      gost-vuk_76: 926909533560433032
+      gost-vuk_77: 6037397927557695417
+      gost-vuk_78: 773317587677918647
+      gost-vuk_79: 5213557509244954478
+      gost-vuk_8: 3700698343809456051
+      gost-vuk_80: 8050619221353695816
+      gost-vuk_81: -6986476321401725850
+      gost-vuk_82: 7114305129360192161
+      gost-vuk_83: -8428755179303610704
+      gost-vuk_84: 526738828404418831
+      gost-vuk_85: -8552830746274463696
+      gost-vuk_86: -2331430361895133570
+      gost-vuk_87: 3346575834651686057
+      gost-vuk_88: 8176020292165529443
+      gost-vuk_89: -3532819015811601548
+      gost-vuk_9: -8918728935793991244
+      gost-vuk_90: 5509169302880421572
+      gost-vuk_91: 5957806185756745048
+      gost-vuk_92: -6752152443590092216
+      gost-vuk_93: 9087108688210907074
+      gost-vuk_94: -1022120283687272168
+      gost-vuk_95: -2645647520985657782
+      gost-vuk_96: 6106617995156690259
+      gost-vuk_97: 4579613596426250570
+      gost-vuk_98: -6398643911097458492
+      gost-vuk_99: -4471313134062351314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

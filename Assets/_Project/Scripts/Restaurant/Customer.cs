@@ -3,6 +3,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 using System.Collections;
+using System.Runtime.CompilerServices;
 
 [RequireComponent(typeof(Mover))] 
 public class Customer : MonoBehaviour
@@ -10,6 +11,7 @@ public class Customer : MonoBehaviour
     [Header("DEBUG")]
     [SerializeField] private TextMeshPro debugLabel;
     [SerializeField] private CustomerState state = CustomerState.Entering;
+    [SerializeField] private bool showDebugLabel = false;
 
     [Header("ORDER")]
     [SerializeField] private MenuSO menu;
@@ -22,6 +24,11 @@ public class Customer : MonoBehaviour
     [SerializeField] private float maxPatience = 25f;
     [SerializeField] private Transform patienceBarRoot;
     [SerializeField] private SpriteRenderer patienceBarFill;
+
+    [Header("VISUAL")]
+    [SerializeField] private SpriteRenderer visualRenderer;
+    [SerializeField] private Sprite[] customerSprites;
+    [SerializeField] private SpriteRenderer orderIcon;
 
     private float patience;
     private bool patienceActive;
@@ -41,8 +48,10 @@ public class Customer : MonoBehaviour
 
     private void Awake()
     {
-        mover = GetComponent<Mover>(); 
+        mover = GetComponent<Mover>();
+        PickRandomLook();
     }
+
 
     public void Init(Vector2 exit)
     {
@@ -100,7 +109,9 @@ public class Customer : MonoBehaviour
         wantedDish = menu.GetRandomDish();
         RefreshLabel();
 
+        ShowOrderIcon(wantedDish);
         StartPatience();
+
     }
 
     private void StartPatience()
@@ -187,6 +198,7 @@ public class Customer : MonoBehaviour
 
     public void Leave()
     {
+        HideOrderIcon();
         StopPatience();
         StopEating();
         Unsubscribe();
@@ -259,6 +271,13 @@ public class Customer : MonoBehaviour
             return;
         }
 
+        if (!showDebugLabel)
+        {
+            debugLabel.gameObject.SetActive(false);
+            return;
+        }
+        debugLabel.gameObject.SetActive(true);
+
         string text = state.ToString();
 
         if (state == CustomerState.Seated && wantedDish != null) 
@@ -304,7 +323,9 @@ public class Customer : MonoBehaviour
             return;
         }
 
+        HideOrderIcon();
         StopPatience(); // buduci da je dobio hranu, NE CEKA VISE
+
 
         SetState(CustomerState.Eating);
         eatingRoutine = StartCoroutine(EatRoutine(order));
@@ -350,6 +371,37 @@ public class Customer : MonoBehaviour
         }
         debugLabel.text = $"eating... {timeLeft:F1}s";
         debugLabel.color = Color.cyan;
+    }
+
+    private void PickRandomLook()
+    {
+        if (visualRenderer == null || customerSprites == null || customerSprites.Length == 0)
+        {
+            return;
+        }
+
+        int index = Random.Range(0, customerSprites.Length);
+        visualRenderer.sprite = customerSprites[index];
+
+    }
+
+    private void ShowOrderIcon(DishSO dish)
+    {
+        if (orderIcon == null)
+        {
+            return;
+        }
+
+        // null sprite = renderer ne crta nista
+        orderIcon.sprite = (dish != null) ? dish.icon : null;
+    }
+
+    private void HideOrderIcon()
+    {
+        if (orderIcon != null)
+        {
+            orderIcon.sprite = null;
+        }
     }
 
 }

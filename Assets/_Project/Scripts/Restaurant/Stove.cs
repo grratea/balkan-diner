@@ -13,6 +13,8 @@ public class Stove : MonoBehaviour
     [Header("ONLY FOR DEBUG")]
     [SerializeField] private StoveState state = StoveState.Empty;
 
+    [SerializeField] private SpriteRenderer dishIcon;
+
     private Order currentOrder;
     // timeri
     private float cookTimer; // kolko je jos ostalo
@@ -47,6 +49,7 @@ public class Stove : MonoBehaviour
     {
         RefreshLabel();
         RefreshProgressBar();
+        RefreshDishIcon();
     }
 
     private void RefreshLabel()
@@ -116,6 +119,7 @@ public class Stove : MonoBehaviour
 
     public bool StartCooking(Order order)
     {
+        // ShowOrderIcon(order.Dish);
         if (state != StoveState.Empty || order == null)
         {
             return false;
@@ -160,6 +164,7 @@ public class Stove : MonoBehaviour
 
     public Order TakeDish()
     {
+        // HideOrderIcon();
         if (state != StoveState.Ready)
         {
             return null;
@@ -190,4 +195,45 @@ public class Stove : MonoBehaviour
             Gizmos.DrawWireSphere(interactPoint.position, 0.2f);
         }
     }
+
+    private void RefreshDishIcon()
+    {
+        if (dishIcon == null)
+        {
+            return;
+        }
+        if (currentOrder != null)
+        {
+            dishIcon.sprite = currentOrder.Dish.icon;
+        }
+        else
+        {
+            dishIcon.sprite = null;
+        }
+    }
+
+    //private void ShowOrderIcon(DishSO dish)
+    //{
+    //    if (orderIcon == null)
+    //    {
+    //        return;
+    //    }
+
+    //    if (dish == null || dish.icon == null)
+    //    {
+    //        orderIcon.gameObject.SetActive(false);
+    //        return;
+    //    }
+
+    //    orderIcon.sprite = dish.icon;
+    //    orderIcon.gameObject.SetActive(true);
+    //}
+
+    //private void HideOrderIcon()
+    //{
+    //    if (orderIcon != null)
+    //    {
+    //        orderIcon.gameObject.SetActive(false);
+    //    }
+    //}
 }

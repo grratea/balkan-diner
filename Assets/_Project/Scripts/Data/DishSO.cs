@@ -13,4 +13,6 @@ public class DishSO : ScriptableObject
     public int price = 40;
 
     // TODO: icon
+    [Header("VISUAL")]
+    public Sprite icon;
 }

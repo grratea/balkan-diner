@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: a26f72d9a739fdc44938ffe5b2577ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1796198194711905892
+    second: gost-roda_0
+  - first:
+      213: -2206480922401643961
+    second: gost-roda_1
+  - first:
+      213: 3953480455680365273
+    second: gost-roda_2
+  - first:
+      213: -1943865007147091233
+    second: gost-roda_3
+  - first:
+      213: 3799692332154210803
+    second: gost-roda_4
+  - first:
+      213: -7580500682670297967
+    second: gost-roda_5
+  - first:
+      213: 4762099924567996135
+    second: gost-roda_6
+  - first:
+      213: -3561817741733371823
+    second: gost-roda_7
+  - first:
+      213: 3682301981398239770
+    second: gost-roda_8
+  - first:
+      213: -631659475291809575
+    second: gost-roda_9
+  - first:
+      213: -847544437048754808
+    second: gost-roda_10
+  - first:
+      213: -3292567341450290434
+    second: gost-roda_11
+  - first:
+      213: -3222197584510474711
+    second: gost-roda_12
+  - first:
+      213: 4801068687722901621
+    second: gost-roda_13
+  - first:
+      213: 9110127064448425138
+    second: gost-roda_14
+  - first:
+      213: 6956692234468105377
+    second: gost-roda_15
+  - first:
+      213: -1136660508831154363
+    second: gost-roda_16
+  - first:
+      213: -3182860485189934508
+    second: gost-roda_17
+  - first:
+      213: -1430257546953402264
+    second: gost-roda_18
+  - first:
+      213: 9069685191920467790
+    second: gost-roda_19
+  - first:
+      213: -2868469010544679424
+    second: gost-roda_20
+  - first:
+      213: -150131227032247371
+    second: gost-roda_21
+  - first:
+      213: 3905003451567082005
+    second: gost-roda_22
+  - first:
+      213: -6929209784138463894
+    second: gost-roda_23
+  - first:
+      213: -8075778255866176799
+    second: gost-roda_24
+  - first:
+      213: 847468413798711742
+    second: gost-roda_25
+  - first:
+      213: -2369788315533812359
+    second: gost-roda_26
+  - first:
+      213: -6100400299297661978
+    second: gost-roda_27
+  - first:
+      213: -3812590894432897109
+    second: gost-roda_28
+  - first:
+      213: -1196171854969693800
+    second: gost-roda_29
+  - first:
+      213: 1367547960562218922
+    second: gost-roda_30
+  - first:
+      213: -3410327936991390433
+    second: gost-roda_31
+  - first:
+      213: 5778282399637680133
+    second: gost-roda_32
+  - first:
+      213: 2241032576110370974
+    second: gost-roda_33
+  - first:
+      213: 8858887951032117464
+    second: gost-roda_34
+  - first:
+      213: -4094659937636555080
+    second: gost-roda_35
+  - first:
+      213: -495322747071880205
+    second: gost-roda_36
+  - first:
+      213: -7230489559425150244
+    second: gost-roda_37
+  - first:
+      213: 3977690780993373355
+    second: gost-roda_38
+  - first:
+      213: 7044047020017272030
+    second: gost-roda_39
+  - first:
+      213: -707941339235979264
+    second: gost-roda_40
+  - first:
+      213: 8013130663791364524
+    second: gost-roda_41
+  - first:
+      213: -3517725570054850295
+    second: gost-roda_42
+  - first:
+      213: 5935680199532750916
+    second: gost-roda_43
+  - first:
+      213: -4888865243855105117
+    second: gost-roda_44
+  - first:
+      213: 5170662913873574971
+    second: gost-roda_45
+  - first:
+      213: -1752406052200552889
+    second: gost-roda_46
+  - first:
+      213: 1865222860070741215
+    second: gost-roda_47
+  - first:
+      213: -6906593726703176284
+    second: gost-roda_48
+  - first:
+      213: 7574608355294603892
+    second: gost-roda_49
+  - first:
+      213: 7446211041055597815
+    second: gost-roda_50
+  - first:
+      213: -6803837131123181294
+    second: gost-roda_51
+  - first:
+      213: 8710920970635015713
+    second: gost-roda_52
+  - first:
+      213: -8652995717617713777
+    second: gost-roda_53
+  - first:
+      213: 4670123933033700869
+    second: gost-roda_54
+  - first:
+      213: 5222167015821860894
+    second: gost-roda_55
+  - first:
+      213: 1789233089134648759
+    second: gost-roda_56
+  - first:
+      213: -9056528476773382221
+    second: gost-roda_57
+  - first:
+      213: -1848078158805445600
+    second: gost-roda_58
+  - first:
+      213: 2096688394614751006
+    second: gost-roda_59
+  - first:
+      213: 4856779010656101896
+    second: gost-roda_60
+  - first:
+      213: -3826923612748479632
+    second: gost-roda_61
+  - first:
+      213: -8809416815402502562
+    second: gost-roda_62
+  - first:
+      213: -6291931362212088457
+    second: gost-roda_63
+  - first:
+      213: 2881027641609649861
+    second: gost-roda_64
+  - first:
+      213: -8272991926115353571
+    second: gost-roda_65
+  - first:
+      213: 1513185314972527477
+    second: gost-roda_66
+  - first:
+      213: -5167668343978271975
+    second: gost-roda_67
+  - first:
+      213: -8949339057338759856
+    second: gost-roda_68
+  - first:
+      213: -277458671796646317
+    second: gost-roda_69
+  - first:
+      213: 2975420422720224124
+    second: gost-roda_70
+  - first:
+      213: -5175716121371318604
+    second: gost-roda_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gost-roda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1891
+        height: 1912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99bff1324f9217e0800000000000000
+      internalID: -1796198194711905892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1877
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742e290aa410161e0800000000000000
+      internalID: -2206480922401643961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1871
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2174b27859dd630800000000000000
+      internalID: 3953480455680365273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1640
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7fa533110605e0800000000000000
+      internalID: -1943865007147091233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1607
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c3d16b083bb430800000000000000
+      internalID: 3799692332154210803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1621
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca4d5dac6acc690800000000000000
+      internalID: -7580500682670297967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1591
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63ac496a0661240800000000000000
+      internalID: 4762099924567996135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1543
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506c4d92a1e19ec0800000000000000
+      internalID: -3561817741733371823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1543
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a85f4742a2a1330800000000000000
+      internalID: 3682301981398239770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_9
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1537
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8d83ccd05eb37f0800000000000000
+      internalID: -631659475291809575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1501
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88db95233daec34f0800000000000000
+      internalID: -847544437048754808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_11
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1512
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9dcd92737e42d0800000000000000
+      internalID: -3292567341450290434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1495
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926a12b6e547843d0800000000000000
+      internalID: -3222197584510474711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1471
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57079f9c882d0a240800000000000000
+      internalID: 4801068687722901621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_14
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1437
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcde1f2c4cad6e70800000000000000
+      internalID: 9110127064448425138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_15
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1457
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac9037aab22b8060800000000000000
+      internalID: 6956692234468105377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_16
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1456
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f77ec1a45c930f0800000000000000
+      internalID: -1136660508831154363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1438
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45260a2904534d3d0800000000000000
+      internalID: -3182860485189934508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_18
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1412
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8685580c654b62ce0800000000000000
+      internalID: -1430257546953402264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1367
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3a09f0aefddd70800000000000000
+      internalID: 9069685191920467790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_20
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1413
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a449f1a62138d0800000000000000
+      internalID: -2868469010544679424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1402
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ac07c170aaedf0800000000000000
+      internalID: -150131227032247371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_22
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1399
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a845913fb513630800000000000000
+      internalID: 3905003451567082005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650442f96086df90800000000000000
+      internalID: -6929209784138463894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1383
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead54ea6721def80800000000000000
+      internalID: -8075778255866176799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_25
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1231
+        width: 78
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb106d24800d2cb00800000000000000
+      internalID: 847468413798711742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1245
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5cbb2512dc1fd0800000000000000
+      internalID: -2369788315533812359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_27
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1333
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1da4cf36075ba0800000000000000
+      internalID: -6100400299297661978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1221
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7307f08c4f61bc0800000000000000
+      internalID: -3812590894432897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1239
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89916361908566fe0800000000000000
+      internalID: -1196171854969693800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_30
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7fe92ef918af210800000000000000
+      internalID: 1367547960562218922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15990c5fc41ca0d0800000000000000
+      internalID: -3410327936991390433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500bb425a35903050800000000000000
+      internalID: 5778282399637680133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_33
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1190
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e902325214fb91f10800000000000000
+      internalID: 2241032576110370974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1104
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8e142b7a711fa70800000000000000
+      internalID: 8858887951032117464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6662d2b78dc27c0800000000000000
+      internalID: -4094659937636555080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_36
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1137
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f32c9bf5924029f0800000000000000
+      internalID: -495322747071880205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1041
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21b42fd0428ab90800000000000000
+      internalID: -7230489559425150244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_38
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1091
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c47bc0b8933730800000000000000
+      internalID: 3977690780993373355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_39
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1089
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44749917b71c160800000000000000
+      internalID: 7044047020017272030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 893
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00076015a13ec26f0800000000000000
+      internalID: -707941339235979264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 819
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9031222eb543f60800000000000000
+      internalID: 8013130663791364524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_42
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 851
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90972935b378e2fc0800000000000000
+      internalID: -3517725570054850295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 781
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448287161b5cf5250800000000000000
+      internalID: 5935680199532750916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 799
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3534986f2472cb0800000000000000
+      internalID: -4888865243855105117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_45
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 775
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c78ba5682e1c740800000000000000
+      internalID: 5170662913873574971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 751
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746675ceaf33ea7e0800000000000000
+      internalID: -1752406052200552889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 775
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd464711f4a92e910800000000000000
+      internalID: 1865222860070741215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_48
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 774
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57ae72999d620a0800000000000000
+      internalID: -6906593726703176284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_49
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 775
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a6a0aca2a6e1960800000000000000
+      internalID: 7574608355294603892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 753
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e5b87d71465760800000000000000
+      internalID: 7446211041055597815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193ac17d2ae391a0800000000000000
+      internalID: -6803837131123181294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 549
+        width: 65
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1267339687863e870800000000000000
+      internalID: 8710920970635015713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 721
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7b688d326ae780800000000000000
+      internalID: -8652995717617713777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 719
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e168549fc9fc040800000000000000
+      internalID: 4670123933033700869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_55
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 717
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e2df8b3dd87840800000000000000
+      internalID: 5222167015821860894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_56
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 649
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdde3ac302a4d810800000000000000
+      internalID: 1789233089134648759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_57
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 673
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b786bb755fb05280800000000000000
+      internalID: -9056528476773382221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_58
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 596
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245e33c4be4a56e0800000000000000
+      internalID: -1848078158805445600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_59
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 639
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f32b57cfee81d10800000000000000
+      internalID: 2096688394614751006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_60
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 647
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806eab227ceb66340800000000000000
+      internalID: 4856779010656101896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_61
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 638
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0738297004904eac0800000000000000
+      internalID: -3826923612748479632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_62
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 639
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b497a41aaeb580800000000000000
+      internalID: -8809416815402502562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 463
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775753c13c19ea8a0800000000000000
+      internalID: -6291931362212088457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_64
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 487
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce793e20677bf720800000000000000
+      internalID: 2881027641609649861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 431
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3836ecad603d80800000000000000
+      internalID: -8272991926115353571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 407
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b664ad60aeff410800000000000000
+      internalID: 1513185314972527477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_67
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 405
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd4284501c848b0800000000000000
+      internalID: -5167668343978271975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0554bc00b8f8dc380800000000000000
+      internalID: -8949339057338759856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_69
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 46
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e85bbdec4462cf0800000000000000
+      internalID: -277458671796646317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_70
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7ea92c11da4920800000000000000
+      internalID: 2975420422720224124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-roda_71
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 9
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b666671c992c28b0800000000000000
+      internalID: -5175716121371318604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gost-roda_0: -1796198194711905892
+      gost-roda_1: -2206480922401643961
+      gost-roda_10: -847544437048754808
+      gost-roda_11: -3292567341450290434
+      gost-roda_12: -3222197584510474711
+      gost-roda_13: 4801068687722901621
+      gost-roda_14: 9110127064448425138
+      gost-roda_15: 6956692234468105377
+      gost-roda_16: -1136660508831154363
+      gost-roda_17: -3182860485189934508
+      gost-roda_18: -1430257546953402264
+      gost-roda_19: 9069685191920467790
+      gost-roda_2: 3953480455680365273
+      gost-roda_20: -2868469010544679424
+      gost-roda_21: -150131227032247371
+      gost-roda_22: 3905003451567082005
+      gost-roda_23: -6929209784138463894
+      gost-roda_24: -8075778255866176799
+      gost-roda_25: 847468413798711742
+      gost-roda_26: -2369788315533812359
+      gost-roda_27: -6100400299297661978
+      gost-roda_28: -3812590894432897109
+      gost-roda_29: -1196171854969693800
+      gost-roda_3: -1943865007147091233
+      gost-roda_30: 1367547960562218922
+      gost-roda_31: -3410327936991390433
+      gost-roda_32: 5778282399637680133
+      gost-roda_33: 2241032576110370974
+      gost-roda_34: 8858887951032117464
+      gost-roda_35: -4094659937636555080
+      gost-roda_36: -495322747071880205
+      gost-roda_37: -7230489559425150244
+      gost-roda_38: 3977690780993373355
+      gost-roda_39: 7044047020017272030
+      gost-roda_4: 3799692332154210803
+      gost-roda_40: -707941339235979264
+      gost-roda_41: 8013130663791364524
+      gost-roda_42: -3517725570054850295
+      gost-roda_43: 5935680199532750916
+      gost-roda_44: -4888865243855105117
+      gost-roda_45: 5170662913873574971
+      gost-roda_46: -1752406052200552889
+      gost-roda_47: 1865222860070741215
+      gost-roda_48: -6906593726703176284
+      gost-roda_49: 7574608355294603892
+      gost-roda_5: -7580500682670297967
+      gost-roda_50: 7446211041055597815
+      gost-roda_51: -6803837131123181294
+      gost-roda_52: 8710920970635015713
+      gost-roda_53: -8652995717617713777
+      gost-roda_54: 4670123933033700869
+      gost-roda_55: 5222167015821860894
+      gost-roda_56: 1789233089134648759
+      gost-roda_57: -9056528476773382221
+      gost-roda_58: -1848078158805445600
+      gost-roda_59: 2096688394614751006
+      gost-roda_6: 4762099924567996135
+      gost-roda_60: 4856779010656101896
+      gost-roda_61: -3826923612748479632
+      gost-roda_62: -8809416815402502562
+      gost-roda_63: -6291931362212088457
+      gost-roda_64: 2881027641609649861
+      gost-roda_65: -8272991926115353571
+      gost-roda_66: 1513185314972527477
+      gost-roda_67: -5167668343978271975
+      gost-roda_68: -8949339057338759856
+      gost-roda_69: -277458671796646317
+      gost-roda_7: -3561817741733371823
+      gost-roda_70: 2975420422720224124
+      gost-roda_71: -5175716121371318604
+      gost-roda_8: 3682301981398239770
+      gost-roda_9: -631659475291809575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

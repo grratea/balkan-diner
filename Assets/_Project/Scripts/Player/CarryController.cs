@@ -3,7 +3,8 @@ using UnityEngine;
 
 public class CarryController : MonoBehaviour
 {
-    [SerializeField] private TextMeshPro carryLabel;
+    //[SerializeField] private TextMeshPro carryLabel;
+    [SerializeField] private SpriteRenderer carryIcon;
 
     private Order carriedOrder;
 
@@ -13,27 +14,28 @@ public class CarryController : MonoBehaviour
 
     void Start()
     {
-        RefreshLabel();
+        //RefreshLabel();
+        RefreshIcon();
     }
 
-    private void RefreshLabel()
-    {
-        if (carryLabel == null)
-        {
-            return;
-        }
+    //private void RefreshLabel()
+    //{
+    //    if (carryLabel == null)
+    //    {
+    //        return;
+    //    }
 
-        if (IsCarrying)
-        {
-            carryLabel.text = $"[{carriedOrder.Dish.displayName}]";
-            carryLabel.color = Color.yellow;
-        }
+    //    if (IsCarrying)
+    //    {
+    //        carryLabel.text = $"[{carriedOrder.Dish.displayName}]";
+    //        carryLabel.color = Color.yellow;
+    //    }
 
-        else
-        {
-            carryLabel.text = "";
-        }
-    }
+    //    else
+    //    {
+    //        carryLabel.text = "";
+    //    }
+    //}
 
     // PROMIJENITI NAZIV FJE
     public bool PickUp(Order order)
@@ -45,7 +47,9 @@ public class CarryController : MonoBehaviour
         }
 
         carriedOrder = order;
-        RefreshLabel();
+        // ShowCarryIcon(order.Dish);
+        RefreshIcon();
+        // RefreshLabel();
         return true;
     }
 
@@ -53,18 +57,58 @@ public class CarryController : MonoBehaviour
     {
         Order order = carriedOrder;
         carriedOrder = null;
-        RefreshLabel();
+        // HideCarryIcon();
+        RefreshIcon();
+        // RefreshLabel();
         return order;
     }
 
     public void ForceDrop()
     {
         carriedOrder = null;
-        RefreshLabel();
+        RefreshIcon();
+        // RefreshLabel();
     }
 
-    void Update()
+    private void RefreshIcon()
     {
-        
+        if (carryIcon == null) {
+            return;
+        }
+
+        if (carriedOrder != null && carriedOrder.IsReady)
+        {
+            carryIcon.sprite = carriedOrder.Dish.icon;
+        }
+
+        else
+        {
+            carryIcon.sprite = null;
+        }
+    }
+
+    private void ShowCarryIcon(DishSO dish)
+    {
+        if (carryIcon == null)
+        {
+            return;
+        }
+
+        if (dish == null || dish.icon == null)
+        {
+            carryIcon.gameObject.SetActive(false);
+            return;
+        }
+
+        carryIcon.sprite = dish.icon;
+        carryIcon.gameObject.SetActive(true);
+    }
+
+    private void HideCarryIcon()
+    {
+        if (carryIcon != null)
+        {
+            carryIcon.gameObject.SetActive(false);
+        }
     }
 }

@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: a98af6986072f344cba9cc17e66bc27c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8056556801559578085
+    second: gost-medo_0
+  - first:
+      213: 3855717000506745065
+    second: gost-medo_1
+  - first:
+      213: -2493214354285775624
+    second: gost-medo_2
+  - first:
+      213: 1669817016342322684
+    second: gost-medo_3
+  - first:
+      213: 5470602765080415765
+    second: gost-medo_4
+  - first:
+      213: 8253835302705364083
+    second: gost-medo_5
+  - first:
+      213: 8097482872292925504
+    second: gost-medo_6
+  - first:
+      213: 479519701500553586
+    second: gost-medo_7
+  - first:
+      213: -960360192313414565
+    second: gost-medo_8
+  - first:
+      213: -4496060376947042575
+    second: gost-medo_9
+  - first:
+      213: -8406515250098682343
+    second: gost-medo_10
+  - first:
+      213: 8035927832055088366
+    second: gost-medo_11
+  - first:
+      213: -1153061636695440927
+    second: gost-medo_12
+  - first:
+      213: -5247605861464640240
+    second: gost-medo_13
+  - first:
+      213: 5620261410922676540
+    second: gost-medo_14
+  - first:
+      213: 1484699286922233486
+    second: gost-medo_15
+  - first:
+      213: 3108844460414140056
+    second: gost-medo_16
+  - first:
+      213: 530361500587311041
+    second: gost-medo_17
+  - first:
+      213: -6918575798179681169
+    second: gost-medo_18
+  - first:
+      213: -1456003305459107161
+    second: gost-medo_19
+  - first:
+      213: 5225793209632717544
+    second: gost-medo_20
+  - first:
+      213: -3500238396394172414
+    second: gost-medo_21
+  - first:
+      213: -5523331523283105306
+    second: gost-medo_22
+  - first:
+      213: -3965905830923305197
+    second: gost-medo_23
+  - first:
+      213: 728278348802284864
+    second: gost-medo_24
+  - first:
+      213: 8554022375928571680
+    second: gost-medo_25
+  - first:
+      213: 1546152965952261440
+    second: gost-medo_26
+  - first:
+      213: -5953211769516693831
+    second: gost-medo_27
+  - first:
+      213: 6430276933982476710
+    second: gost-medo_28
+  - first:
+      213: 8761018966463592338
+    second: gost-medo_29
+  - first:
+      213: -88212662036409047
+    second: gost-medo_30
+  - first:
+      213: 5278935626969750346
+    second: gost-medo_31
+  - first:
+      213: 7092823451304998816
+    second: gost-medo_32
+  - first:
+      213: -1290606881646444400
+    second: gost-medo_33
+  - first:
+      213: 6903265232056132329
+    second: gost-medo_34
+  - first:
+      213: -3443926553327501126
+    second: gost-medo_35
+  - first:
+      213: 4548265222486886535
+    second: gost-medo_36
+  - first:
+      213: 7474405318473584130
+    second: gost-medo_37
+  - first:
+      213: 8640463570093561661
+    second: gost-medo_38
+  - first:
+      213: -3870183888090942837
+    second: gost-medo_39
+  - first:
+      213: -6748625754589722749
+    second: gost-medo_40
+  - first:
+      213: -2950467941563869234
+    second: gost-medo_41
+  - first:
+      213: -4906375850490325774
+    second: gost-medo_42
+  - first:
+      213: 8987277624465135909
+    second: gost-medo_43
+  - first:
+      213: 6943111954038187865
+    second: gost-medo_44
+  - first:
+      213: 3650526498563813670
+    second: gost-medo_45
+  - first:
+      213: -7537491080197939055
+    second: gost-medo_46
+  - first:
+      213: 6705030481101107311
+    second: gost-medo_47
+  - first:
+      213: -405963053657949900
+    second: gost-medo_48
+  - first:
+      213: -341321357508007858
+    second: gost-medo_49
+  - first:
+      213: -4723230412949959753
+    second: gost-medo_50
+  - first:
+      213: -2841864700210226726
+    second: gost-medo_51
+  - first:
+      213: 8757300294772157274
+    second: gost-medo_52
+  - first:
+      213: 3160730618462953264
+    second: gost-medo_53
+  - first:
+      213: 288596476280000719
+    second: gost-medo_54
+  - first:
+      213: -517119285970165698
+    second: gost-medo_55
+  - first:
+      213: -7905535915253092530
+    second: gost-medo_56
+  - first:
+      213: 6591945030998261560
+    second: gost-medo_57
+  - first:
+      213: -8152720452330811733
+    second: gost-medo_58
+  - first:
+      213: 7229323282238405458
+    second: gost-medo_59
+  - first:
+      213: -4013560204918509470
+    second: gost-medo_60
+  - first:
+      213: 2866166895270953541
+    second: gost-medo_61
+  - first:
+      213: -4520381283852802267
+    second: gost-medo_62
+  - first:
+      213: -6090613791835435664
+    second: gost-medo_63
+  - first:
+      213: 8053778948053733218
+    second: gost-medo_64
+  - first:
+      213: 2373397610083785524
+    second: gost-medo_65
+  - first:
+      213: 6503498928159393637
+    second: gost-medo_66
+  - first:
+      213: -224229224099316579
+    second: gost-medo_67
+  - first:
+      213: -6185047442025383949
+    second: gost-medo_68
+  - first:
+      213: -1043086413973265000
+    second: gost-medo_69
+  - first:
+      213: 847072646824909074
+    second: gost-medo_70
+  - first:
+      213: 4545113309944015524
+    second: gost-medo_71
+  - first:
+      213: 4274256853313406164
+    second: gost-medo_72
+  - first:
+      213: -7241004235101459936
+    second: gost-medo_73
+  - first:
+      213: 772783054935532284
+    second: gost-medo_74
+  - first:
+      213: 2984926096155937205
+    second: gost-medo_75
+  - first:
+      213: -6196418094869110513
+    second: gost-medo_76
+  - first:
+      213: 513077473104306385
+    second: gost-medo_77
+  - first:
+      213: 5055237527731266184
+    second: gost-medo_78
+  - first:
+      213: 789464220704202862
+    second: gost-medo_79
+  - first:
+      213: 7119660064011575693
+    second: gost-medo_80
+  - first:
+      213: -4435322550844092767
+    second: gost-medo_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gost-medo_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 1557
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab842464c513090800000000000000
+      internalID: -8056556801559578085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1907
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0a3a9fe22428530800000000000000
+      internalID: 3855717000506745065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1839
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f434ef11c2566dd0800000000000000
+      internalID: -2493214354285775624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1873
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd9cf2bab16c2710800000000000000
+      internalID: 1669817016342322684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 349
+        height: 1723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e43e7fa3c7beb40800000000000000
+      internalID: 5470602765080415765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1695
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf4542a738b8270800000000000000
+      internalID: 8253835302705364083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1683
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04064d125c9006070800000000000000
+      internalID: 8097482872292925504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_7
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1682
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279edbeb0a897a600800000000000000
+      internalID: 479519701500553586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_8
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1654
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cabb84e7d1ca2f0800000000000000
+      internalID: -960360192313414565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1627
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6dc5788e8ca91c0800000000000000
+      internalID: -4496060376947042575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1613
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c6fe6bee065b80800000000000000
+      internalID: -8406515250098682343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1631
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4815e79c9558f60800000000000000
+      internalID: 8035927832055088366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_12
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1623
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e143a4fc808fffe0800000000000000
+      internalID: -1153061636695440927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_13
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1623
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157422a542cc27b0800000000000000
+      internalID: -5247605861464640240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1577
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c1eec9fd2ffd40800000000000000
+      internalID: 5620261410922676540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1563
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86864b9226ba9410800000000000000
+      internalID: 1484699286922233486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_16
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1556
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89efcecb095d42b20800000000000000
+      internalID: 3108844460414140056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1599
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbc0d89f83c5700800000000000000
+      internalID: 530361500587311041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1553
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca2edb7f74cff90800000000000000
+      internalID: -6918575798179681169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1554
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab05a35bc3bcbe0800000000000000
+      internalID: -1456003305459107161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_20
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1568
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea7ec99c3fb58840800000000000000
+      internalID: 5225793209632717544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_21
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1543
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2001eb939b7ac6fc0800000000000000
+      internalID: -3500238396394172414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1490
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e94ef15e3f2953b0800000000000000
+      internalID: -5523331523283105306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1523
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f7a27b8a546f8c0800000000000000
+      internalID: -3965905830923305197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_24
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1517
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd7f5bc4d5b1a00800000000000000
+      internalID: 728278348802284864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_25
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1515
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02727fd970ef5b670800000000000000
+      internalID: 8554022375928571680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d40004ee9057510800000000000000
+      internalID: 1546152965952261440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1497
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66845ef61f16da0800000000000000
+      internalID: -5953211769516693831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9d9696dceec3950800000000000000
+      internalID: 6430276933982476710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1471
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297b5860554659970800000000000000
+      internalID: 8761018966463592338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_30
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1457
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d0ae1d0b96cef0800000000000000
+      internalID: -88212662036409047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1447
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b9fa5dbfb824940800000000000000
+      internalID: 5278935626969750346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1381
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7389d7955ce6260800000000000000
+      internalID: 7092823451304998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900aca01e7d61ee0800000000000000
+      internalID: -1290606881646444400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1290
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a20b47235dcf50800000000000000
+      internalID: 6903265232056132329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1387
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab00164eb07b430d0800000000000000
+      internalID: -3443926553327501126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_36
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1335
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78808924f1fae1f30800000000000000
+      internalID: 4548265222486886535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_37
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1359
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e88ea390c6ab760800000000000000
+      internalID: 7474405318473584130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1239
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37512e76d719e770800000000000000
+      internalID: 8640463570093561661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1266
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8236e642485a4ac0800000000000000
+      internalID: -3870183888090942837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_40
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1247
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38780a7c1a01852a0800000000000000
+      internalID: -6748625754589722749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_41
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1255
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec758e51a05dd07d0800000000000000
+      internalID: -2950467941563869234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1254
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f418f8b82d09ebb0800000000000000
+      internalID: -4906375850490325774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1221
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299f00026939bc70800000000000000
+      internalID: 8987277624465135909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1215
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e6383983ea5060800000000000000
+      internalID: 6943111954038187865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1197
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621fb06528649a230800000000000000
+      internalID: 3650526498563813670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_46
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1186
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19060234cc3756790800000000000000
+      internalID: -7537491080197939055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1191
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60b232a2bd0d0d50800000000000000
+      internalID: 6705030481101107311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1117
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f8cae0cabd5af0800000000000000
+      internalID: -405963053657949900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_49
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1133
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e482b73a802634bf0800000000000000
+      internalID: -341321357508007858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_50
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1090
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcbc3d6f6b37eb0800000000000000
+      internalID: -4723230412949959753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_51
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1089
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad95f3cac1baf88d0800000000000000
+      internalID: -2841864700210226726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_52
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1087
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b615d483e288970800000000000000
+      internalID: 8757300294772157274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_53
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1007
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5f2050cb2ddb20800000000000000
+      internalID: 3160730618462953264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_54
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 838
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0591457fc410400800000000000000
+      internalID: 288596476280000719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 805
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ae3dcfb2d2d8f0800000000000000
+      internalID: -517119285970165698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_56
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 753
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2f3c68f4e94290800000000000000
+      internalID: -7905535915253092530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_57
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 758
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7d8f741b4b7b50800000000000000
+      internalID: 6591945030998261560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_58
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 716
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae82cd81f7bbde80800000000000000
+      internalID: -8152720452330811733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 661
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf74cf837b35460800000000000000
+      internalID: 7229323282238405458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_60
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 688
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26030352248fc48c0800000000000000
+      internalID: -4013560204918509470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 617
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5420c9b0b9ba6c720800000000000000
+      internalID: 2866166895270953541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_62
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 647
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52721ae1c216441c0800000000000000
+      internalID: -4520381283852802267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_63
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 655
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dcd89960bc97ba0800000000000000
+      internalID: -6090613791835435664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_64
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 647
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f03425845c4cf60800000000000000
+      internalID: 8053778948053733218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_65
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b1ec33d8000f020800000000000000
+      internalID: 2373397610083785524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_66
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 635
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567031271d1114a50800000000000000
+      internalID: 6503498928159393637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 629
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c7c4d65b063ecf0800000000000000
+      internalID: -224229224099316579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_68
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 590
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7732b0f1c4a2aa0800000000000000
+      internalID: -6185047442025383949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_69
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 612
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956619de663681f0800000000000000
+      internalID: -1043086413973265000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 617
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219d2f4951861cb00800000000000000
+      internalID: 847072646824909074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 605
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaec1f697c731f30800000000000000
+      internalID: 4545113309944015524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_72
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 574
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4468c46f5315b30800000000000000
+      internalID: 4274256853313406164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_73
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 575
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aadad3309c28b90800000000000000
+      internalID: -7241004235101459936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_74
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 535
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2afd5181a79ba00800000000000000
+      internalID: 772783054935532284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_75
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 527
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b90b2a38769c6920800000000000000
+      internalID: 2984926096155937205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_76
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 471
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01268f9296e10aa0800000000000000
+      internalID: -6196418094869110513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 417
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d023ae4e31de1700800000000000000
+      internalID: 513077473104306385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 371
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88265a76fbfc72640800000000000000
+      internalID: 5055237527731266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6064f5a68db4fa00800000000000000
+      internalID: 789464220704202862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_80
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e1fc4b1d1ec260800000000000000
+      internalID: 7119660064011575693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gost-medo_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae88aca3a19272c0800000000000000
+      internalID: -4435322550844092767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gost-medo_0: -8056556801559578085
+      gost-medo_1: 3855717000506745065
+      gost-medo_10: -8406515250098682343
+      gost-medo_11: 8035927832055088366
+      gost-medo_12: -1153061636695440927
+      gost-medo_13: -5247605861464640240
+      gost-medo_14: 5620261410922676540
+      gost-medo_15: 1484699286922233486
+      gost-medo_16: 3108844460414140056
+      gost-medo_17: 530361500587311041
+      gost-medo_18: -6918575798179681169
+      gost-medo_19: -1456003305459107161
+      gost-medo_2: -2493214354285775624
+      gost-medo_20: 5225793209632717544
+      gost-medo_21: -3500238396394172414
+      gost-medo_22: -5523331523283105306
+      gost-medo_23: -3965905830923305197
+      gost-medo_24: 728278348802284864
+      gost-medo_25: 8554022375928571680
+      gost-medo_26: 1546152965952261440
+      gost-medo_27: -5953211769516693831
+      gost-medo_28: 6430276933982476710
+      gost-medo_29: 8761018966463592338
+      gost-medo_3: 1669817016342322684
+      gost-medo_30: -88212662036409047
+      gost-medo_31: 5278935626969750346
+      gost-medo_32: 7092823451304998816
+      gost-medo_33: -1290606881646444400
+      gost-medo_34: 6903265232056132329
+      gost-medo_35: -3443926553327501126
+      gost-medo_36: 4548265222486886535
+      gost-medo_37: 7474405318473584130
+      gost-medo_38: 8640463570093561661
+      gost-medo_39: -3870183888090942837
+      gost-medo_4: 5470602765080415765
+      gost-medo_40: -6748625754589722749
+      gost-medo_41: -2950467941563869234
+      gost-medo_42: -4906375850490325774
+      gost-medo_43: 8987277624465135909
+      gost-medo_44: 6943111954038187865
+      gost-medo_45: 3650526498563813670
+      gost-medo_46: -7537491080197939055
+      gost-medo_47: 6705030481101107311
+      gost-medo_48: -405963053657949900
+      gost-medo_49: -341321357508007858
+      gost-medo_5: 8253835302705364083
+      gost-medo_50: -4723230412949959753
+      gost-medo_51: -2841864700210226726
+      gost-medo_52: 8757300294772157274
+      gost-medo_53: 3160730618462953264
+      gost-medo_54: 288596476280000719
+      gost-medo_55: -517119285970165698
+      gost-medo_56: -7905535915253092530
+      gost-medo_57: 6591945030998261560
+      gost-medo_58: -8152720452330811733
+      gost-medo_59: 7229323282238405458
+      gost-medo_6: 8097482872292925504
+      gost-medo_60: -4013560204918509470
+      gost-medo_61: 2866166895270953541
+      gost-medo_62: -4520381283852802267
+      gost-medo_63: -6090613791835435664
+      gost-medo_64: 8053778948053733218
+      gost-medo_65: 2373397610083785524
+      gost-medo_66: 6503498928159393637
+      gost-medo_67: -224229224099316579
+      gost-medo_68: -6185047442025383949
+      gost-medo_69: -1043086413973265000
+      gost-medo_7: 479519701500553586
+      gost-medo_70: 847072646824909074
+      gost-medo_71: 4545113309944015524
+      gost-medo_72: 4274256853313406164
+      gost-medo_73: -7241004235101459936
+      gost-medo_74: 772783054935532284
+      gost-medo_75: 2984926096155937205
+      gost-medo_76: -6196418094869110513
+      gost-medo_77: 513077473104306385
+      gost-medo_78: 5055237527731266184
+      gost-medo_79: 789464220704202862
+      gost-medo_8: -960360192313414565
+      gost-medo_80: 7119660064011575693
+      gost-medo_81: -4435322550844092767
+      gost-medo_9: -4496060376947042575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

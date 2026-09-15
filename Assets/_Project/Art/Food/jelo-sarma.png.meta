@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f838093572a9fad4f9bedc8744b22874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2536971381718939294
+    second: jelo-sarma_0
+  - first:
+      213: 1833703276404765977
+    second: jelo-sarma_1
+  - first:
+      213: 5065722482298235009
+    second: jelo-sarma_2
+  - first:
+      213: -7973368747847701078
+    second: jelo-sarma_3
+  - first:
+      213: 8504685566509324981
+    second: jelo-sarma_4
+  - first:
+      213: -6210288763292855151
+    second: jelo-sarma_5
+  - first:
+      213: -5586719344985038233
+    second: jelo-sarma_6
+  - first:
+      213: -8485430701803765639
+    second: jelo-sarma_7
+  - first:
+      213: 997501021019132321
+    second: jelo-sarma_8
+  - first:
+      213: 3230745487046434413
+    second: jelo-sarma_9
+  - first:
+      213: -3398061043325551770
+    second: jelo-sarma_10
+  - first:
+      213: 6204912903759602000
+    second: jelo-sarma_11
+  - first:
+      213: -8575393783850520251
+    second: jelo-sarma_12
+  - first:
+      213: -1044488905831588566
+    second: jelo-sarma_13
+  - first:
+      213: 6410914108699892624
+    second: jelo-sarma_14
+  - first:
+      213: -1763283323833433543
+    second: jelo-sarma_15
+  - first:
+      213: 1458655418765287831
+    second: jelo-sarma_16
+  - first:
+      213: 1294860516609196254
+    second: jelo-sarma_17
+  - first:
+      213: 6066527191882029493
+    second: jelo-sarma_18
+  - first:
+      213: 93174907947566542
+    second: jelo-sarma_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jelo-sarma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1918
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9670bcb702253320800000000000000
+      internalID: 2536971381718939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915739d1a6f927910800000000000000
+      internalID: 1833703276404765977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1504
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a81022cf0d4640800000000000000
+      internalID: 5065722482298235009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_3
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1511
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad26595e57e85190800000000000000
+      internalID: -7973368747847701078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_4
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1485
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1e268676b60670800000000000000
+      internalID: 8504685566509324981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 5
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945457f54f90d9a0800000000000000
+      internalID: -6210288763292855151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_6
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 603
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7622d5efa5cf772b0800000000000000
+      internalID: -5586719344985038233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 518
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9700bc40cb1bd3a80800000000000000
+      internalID: -8485430701803765639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_8
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 487
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a15fe4c4e5d7dd00800000000000000
+      internalID: 997501021019132321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_9
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 459
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e591b37e9e5dc20800000000000000
+      internalID: 3230745487046434413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 430
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bbc7b1c79a7d0d0800000000000000
+      internalID: -3398061043325551770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05124d239674c1650800000000000000
+      internalID: 6204912903759602000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_12
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 418
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413f78b9c41ef880800000000000000
+      internalID: -8575393783850520251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d5214cfda3181f0800000000000000
+      internalID: -1044488905831588566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd8965a6428f850800000000000000
+      internalID: 6410914108699892624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 13
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c984c82f8787e0800000000000000
+      internalID: -1763283323833433543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_16
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 27
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7912435006f2e3410800000000000000
+      internalID: 1458655418765287831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_17
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed08b2687c448f110800000000000000
+      internalID: 1294860516609196254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_18
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b95064d652a03450800000000000000
+      internalID: 6066527191882029493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-sarma_19
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 27
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c13ac5160b4100800000000000000
+      internalID: 93174907947566542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jelo-sarma_0: 2536971381718939294
+      jelo-sarma_1: 1833703276404765977
+      jelo-sarma_10: -3398061043325551770
+      jelo-sarma_11: 6204912903759602000
+      jelo-sarma_12: -8575393783850520251
+      jelo-sarma_13: -1044488905831588566
+      jelo-sarma_14: 6410914108699892624
+      jelo-sarma_15: -1763283323833433543
+      jelo-sarma_16: 1458655418765287831
+      jelo-sarma_17: 1294860516609196254
+      jelo-sarma_18: 6066527191882029493
+      jelo-sarma_19: 93174907947566542
+      jelo-sarma_2: 5065722482298235009
+      jelo-sarma_3: -7973368747847701078
+      jelo-sarma_4: 8504685566509324981
+      jelo-sarma_5: -6210288763292855151
+      jelo-sarma_6: -5586719344985038233
+      jelo-sarma_7: -8485430701803765639
+      jelo-sarma_8: 997501021019132321
+      jelo-sarma_9: 3230745487046434413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9cf5ce6c0c669344b81c8797ad59e11, type: 3}
   m_Name: Dish_Pljeskavica
   m_EditorClassIdentifier: Assembly-CSharp::DishSO
-  displayName: Pljeskavica
+  displayName: Baklava
   cookTime: 6
+  price: 40
+  icon: {fileID: 21300000, guid: b8f3d135ca009104d99567165e15470e, type: 3}

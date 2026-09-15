@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: b8f3d135ca009104d99567165e15470e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1833101696560562298
+    second: jelo-baklava_0
+  - first:
+      213: 1596217255964567472
+    second: jelo-baklava_1
+  - first:
+      213: -2510486699875633274
+    second: jelo-baklava_2
+  - first:
+      213: -2210677567678926364
+    second: jelo-baklava_3
+  - first:
+      213: -1784789148203765552
+    second: jelo-baklava_4
+  - first:
+      213: 7193045411210424126
+    second: jelo-baklava_5
+  - first:
+      213: -6565150911629029541
+    second: jelo-baklava_6
+  - first:
+      213: -5912776402227584518
+    second: jelo-baklava_7
+  - first:
+      213: -8091076217923006990
+    second: jelo-baklava_8
+  - first:
+      213: 903892269092413851
+    second: jelo-baklava_9
+  - first:
+      213: 190888137237468019
+    second: jelo-baklava_10
+  - first:
+      213: 6849485808163810092
+    second: jelo-baklava_11
+  - first:
+      213: -2848496484650619498
+    second: jelo-baklava_12
+  - first:
+      213: -1224694505345999438
+    second: jelo-baklava_13
+  - first:
+      213: -687843192987765626
+    second: jelo-baklava_14
+  - first:
+      213: 5982561961945128333
+    second: jelo-baklava_15
+  - first:
+      213: -5962837498052908617
+    second: jelo-baklava_16
+  - first:
+      213: -454961202473678057
+    second: jelo-baklava_17
+  - first:
+      213: 6801040482934374732
+    second: jelo-baklava_18
+  - first:
+      213: 1367202473721504657
+    second: jelo-baklava_19
+  - first:
+      213: -3292759078037153189
+    second: jelo-baklava_20
+  - first:
+      213: -7719575046284209794
+    second: jelo-baklava_21
+  - first:
+      213: 960397183501372074
+    second: jelo-baklava_22
+  - first:
+      213: -7963239532575492128
+    second: jelo-baklava_23
+  - first:
+      213: -1333726226528937321
+    second: jelo-baklava_24
+  - first:
+      213: -2723250647756609806
+    second: jelo-baklava_25
+  - first:
+      213: 3370258015144800219
+    second: jelo-baklava_26
+  - first:
+      213: 2867508448917956749
+    second: jelo-baklava_27
+  - first:
+      213: -8798412997432239219
+    second: jelo-baklava_28
+  - first:
+      213: -5191798045720127016
+    second: jelo-baklava_29
+  - first:
+      213: -7477194516273869067
+    second: jelo-baklava_30
+  - first:
+      213: 6533499791695515191
+    second: jelo-baklava_31
+  - first:
+      213: 1299469322143130230
+    second: jelo-baklava_32
+  - first:
+      213: -1902326508102018695
+    second: jelo-baklava_33
+  - first:
+      213: -5035110576702991226
+    second: jelo-baklava_34
+  - first:
+      213: 8369807797286369144
+    second: jelo-baklava_35
+  - first:
+      213: -6508994760840871939
+    second: jelo-baklava_36
+  - first:
+      213: 3446522629689258092
+    second: jelo-baklava_37
+  - first:
+      213: 3097249023411993015
+    second: jelo-baklava_38
+  - first:
+      213: 1601857350944823072
+    second: jelo-baklava_39
+  - first:
+      213: 2734997900816604338
+    second: jelo-baklava_40
+  - first:
+      213: -6779247060723229028
+    second: jelo-baklava_41
+  - first:
+      213: -236040709344376265
+    second: jelo-baklava_42
+  - first:
+      213: -5642765918796311640
+    second: jelo-baklava_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jelo-baklava_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1907
+        height: 1919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f775b18b38f86e0800000000000000
+      internalID: -1833101696560562298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1889
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ed1e1327e62610800000000000000
+      internalID: 1596217255964567472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_2
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1915
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687f198c5a5f82dd0800000000000000
+      internalID: -2510486699875633274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_3
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1905
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b29107781251e0800000000000000
+      internalID: -2210677567678926364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1903
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0b756d9b72b37e0800000000000000
+      internalID: -1784789148203765552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1903
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f637ce0b4d2d360800000000000000
+      internalID: 7193045411210424126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1879
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f058f8706e3e4a0800000000000000
+      internalID: -6565150911629029541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_7
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1889
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a9ec703991fda0800000000000000
+      internalID: -5912776402227584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1869
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd86145c09b6bf80800000000000000
+      internalID: -8091076217923006990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1459
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91a97eca354b8c00800000000000000
+      internalID: 903892269092413851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1460
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37310ebdfbb26a200800000000000000
+      internalID: 190888137237468019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2beea96d034e0f50800000000000000
+      internalID: 6849485808163810092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1418
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d63780a8b1878d0800000000000000
+      internalID: -2848496484650619498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_13
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd9a7a06d2010fe0800000000000000
+      internalID: -1224694505345999438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1291
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843bc4a24a4476f0800000000000000
+      internalID: -687843192987765626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1285
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dd08c4864560350800000000000000
+      internalID: 5982561961945128333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_16
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1269
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96d2353eebf3da0800000000000000
+      internalID: -5962837498052908617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_17
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bc8f36237afa9f0800000000000000
+      internalID: -454961202473678057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ca582946226e50800000000000000
+      internalID: 6801040482934374732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a436f76749f210800000000000000
+      internalID: 1367202473721504657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a17a67015cd42d0800000000000000
+      internalID: -3292759078037153189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71924d356f8ed490800000000000000
+      internalID: -7719575046284209794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 655
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa82e56624045d00800000000000000
+      internalID: 960397183501372074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e77d7f06d3ec7190800000000000000
+      internalID: -7963239532575492128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 594
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ade183017ad7de0800000000000000
+      internalID: -1333726226528937321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f66d1ad6f1153ad0800000000000000
+      internalID: -2723250647756609806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6e12fecf85ce20800000000000000
+      internalID: 3370258015144800219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 515
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88af28ddbf6bc720800000000000000
+      internalID: 2867508448917956749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 23
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1fdcaef1c5e580800000000000000
+      internalID: -8798412997432239219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 10
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d84b4f2703f7b0800000000000000
+      internalID: -5191798045720127016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe4ffc043bab3890800000000000000
+      internalID: -7477194516273869067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_31
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8910d177abaa50800000000000000
+      internalID: 6533499791695515191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_32
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ebdea674a80210800000000000000
+      internalID: 1299469322143130230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_33
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97915cdae149995e0800000000000000
+      internalID: -1902326508102018695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_34
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 49
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845ece8b91bf1ab0800000000000000
+      internalID: -5035110576702991226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_35
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777c83b8d7872470800000000000000
+      internalID: 8369807797286369144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff733b40c76ba5a0800000000000000
+      internalID: -6508994760840871939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_37
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 31
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6039fc321284df20800000000000000
+      internalID: 3446522629689258092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 25
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9b56da393abfa20800000000000000
+      internalID: 3097249023411993015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_39
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271aef06c0fa3610800000000000000
+      internalID: 1601857350944823072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_40
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcdc93a91aa4f520800000000000000
+      internalID: 2734997900816604338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1bfc57b64be1a0800000000000000
+      internalID: -6779247060723229028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_42
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 13
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4ff6b93a69bcf0800000000000000
+      internalID: -236040709344376265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jelo-baklava_43
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a317732b4ed0b1b0800000000000000
+      internalID: -5642765918796311640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jelo-baklava_0: -1833101696560562298
+      jelo-baklava_1: 1596217255964567472
+      jelo-baklava_10: 190888137237468019
+      jelo-baklava_11: 6849485808163810092
+      jelo-baklava_12: -2848496484650619498
+      jelo-baklava_13: -1224694505345999438
+      jelo-baklava_14: -687843192987765626
+      jelo-baklava_15: 5982561961945128333
+      jelo-baklava_16: -5962837498052908617
+      jelo-baklava_17: -454961202473678057
+      jelo-baklava_18: 6801040482934374732
+      jelo-baklava_19: 1367202473721504657
+      jelo-baklava_2: -2510486699875633274
+      jelo-baklava_20: -3292759078037153189
+      jelo-baklava_21: -7719575046284209794
+      jelo-baklava_22: 960397183501372074
+      jelo-baklava_23: -7963239532575492128
+      jelo-baklava_24: -1333726226528937321
+      jelo-baklava_25: -2723250647756609806
+      jelo-baklava_26: 3370258015144800219
+      jelo-baklava_27: 2867508448917956749
+      jelo-baklava_28: -8798412997432239219
+      jelo-baklava_29: -5191798045720127016
+      jelo-baklava_3: -2210677567678926364
+      jelo-baklava_30: -7477194516273869067
+      jelo-baklava_31: 6533499791695515191
+      jelo-baklava_32: 1299469322143130230
+      jelo-baklava_33: -1902326508102018695
+      jelo-baklava_34: -5035110576702991226
+      jelo-baklava_35: 8369807797286369144
+      jelo-baklava_36: -6508994760840871939
+      jelo-baklava_37: 3446522629689258092
+      jelo-baklava_38: 3097249023411993015
+      jelo-baklava_39: 1601857350944823072
+      jelo-baklava_4: -1784789148203765552
+      jelo-baklava_40: 2734997900816604338
+      jelo-baklava_41: -6779247060723229028
+      jelo-baklava_42: -236040709344376265
+      jelo-baklava_43: -5642765918796311640
+      jelo-baklava_5: 7193045411210424126
+      jelo-baklava_6: -6565150911629029541
+      jelo-baklava_7: -5912776402227584518
+      jelo-baklava_8: -8091076217923006990
+      jelo-baklava_9: 903892269092413851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

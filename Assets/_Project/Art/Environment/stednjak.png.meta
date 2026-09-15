@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: f24a814731aba804a8a1edfeca91d558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3519361243557936411
+    second: stednjak_0
+  - first:
+      213: -7170890427026317096
+    second: stednjak_1
+  - first:
+      213: -8278195161488993780
+    second: stednjak_2
+  - first:
+      213: 7091861960577921160
+    second: stednjak_3
+  - first:
+      213: 2577537883453066968
+    second: stednjak_4
+  - first:
+      213: 3132891910654919858
+    second: stednjak_5
+  - first:
+      213: -7857460080466984373
+    second: stednjak_6
+  - first:
+      213: 3488628032514342332
+    second: stednjak_7
+  - first:
+      213: 5368872234746034547
+    second: stednjak_8
+  - first:
+      213: 838915111658884052
+    second: stednjak_9
+  - first:
+      213: -5681601259433180496
+    second: stednjak_10
+  - first:
+      213: 3043872114580528334
+    second: stednjak_11
+  - first:
+      213: 757728424095133492
+    second: stednjak_12
+  - first:
+      213: 1210197226466012311
+    second: stednjak_13
+  - first:
+      213: -7485346052509664928
+    second: stednjak_14
+  - first:
+      213: -6898039799627481100
+    second: stednjak_15
+  - first:
+      213: 7267268534103290381
+    second: stednjak_16
+  - first:
+      213: 1001490764301625132
+    second: stednjak_17
+  - first:
+      213: -8263666576931071013
+    second: stednjak_18
+  - first:
+      213: 2950008429573619156
+    second: stednjak_19
+  - first:
+      213: 523375823049197989
+    second: stednjak_20
+  - first:
+      213: -5030653846114583578
+    second: stednjak_21
+  - first:
+      213: -723049815985793895
+    second: stednjak_22
+  - first:
+      213: 3367612139954576592
+    second: stednjak_23
+  - first:
+      213: -841414334592633096
+    second: stednjak_24
+  - first:
+      213: 1238197879504906578
+    second: stednjak_25
+  - first:
+      213: 8379145103451384034
+    second: stednjak_26
+  - first:
+      213: -9174632245228223985
+    second: stednjak_27
+  - first:
+      213: 5405432564737471793
+    second: stednjak_28
+  - first:
+      213: 6024226983511068332
+    second: stednjak_29
+  - first:
+      213: -8948403667792733426
+    second: stednjak_30
+  - first:
+      213: -5261286294002791616
+    second: stednjak_31
+  - first:
+      213: -5906646456283303608
+    second: stednjak_32
+  - first:
+      213: -119294397437624230
+    second: stednjak_33
+  - first:
+      213: 1217553533801668978
+    second: stednjak_34
+  - first:
+      213: 3733916442651293901
+    second: stednjak_35
+  - first:
+      213: -5501524447084108274
+    second: stednjak_36
+  - first:
+      213: -7448974222918581603
+    second: stednjak_37
+  - first:
+      213: 1826888275081963779
+    second: stednjak_38
+  - first:
+      213: -91077206404967897
+    second: stednjak_39
+  - first:
+      213: 766131358388695644
+    second: stednjak_40
+  - first:
+      213: 3392571113500217415
+    second: stednjak_41
+  - first:
+      213: 6767440163949790476
+    second: stednjak_42
+  - first:
+      213: 8819594392999302602
+    second: stednjak_43
+  - first:
+      213: -5218560431323034922
+    second: stednjak_44
+  - first:
+      213: -1251430725875221313
+    second: stednjak_45
+  - first:
+      213: 3070820805857415525
+    second: stednjak_46
+  - first:
+      213: 123044461830289510
+    second: stednjak_47
+  - first:
+      213: 4729784387543191034
+    second: stednjak_48
+  - first:
+      213: -6868444122641485136
+    second: stednjak_49
+  - first:
+      213: -7668716906626713331
+    second: stednjak_50
+  - first:
+      213: -3442268360909615982
+    second: stednjak_51
+  - first:
+      213: 9012959900064404890
+    second: stednjak_52
+  - first:
+      213: 822736182026619141
+    second: stednjak_53
+  - first:
+      213: 2794637065869290278
+    second: stednjak_54
+  - first:
+      213: -716871213516375100
+    second: stednjak_55
+  - first:
+      213: -8772468844441073521
+    second: stednjak_56
+  - first:
+      213: 5294979757783833356
+    second: stednjak_57
+  - first:
+      213: -173376385366652173
+    second: stednjak_58
+  - first:
+      213: 3924955193626369279
+    second: stednjak_59
+  - first:
+      213: 901295417073618234
+    second: stednjak_60
+  - first:
+      213: 5936502742303319682
+    second: stednjak_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stednjak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1905
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2c3796897b82fc0800000000000000
+      internalID: -3519361243557936411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1442
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0e8dd4621eb7c90800000000000000
+      internalID: -7170890427026317096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1412
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0257124c51fd1d80800000000000000
+      internalID: -8278195161488993780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1364
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8803a5cf0ea5b6260800000000000000
+      internalID: 7091861960577921160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_4
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1382
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de05527c0145c320800000000000000
+      internalID: 2577537883453066968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_5
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1399
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4084e08944a7b20800000000000000
+      internalID: 3132891910654919858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1344
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4204faffa1b4f290800000000000000
+      internalID: -7857460080466984373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1334
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdbc7746b81a6030800000000000000
+      internalID: 3488628032514342332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1333
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379be7c1ad0128a40800000000000000
+      internalID: 5368872234746034547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1301
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db822b69dc64ab00800000000000000
+      internalID: 838915111658884052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_10
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1317
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c218c1c5e621b0800000000000000
+      internalID: -5681601259433180496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_11
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1321
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc1a43af810e3a20800000000000000
+      internalID: 3043872114580528334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1300
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f2862bcfdf38a00800000000000000
+      internalID: 757728424095133492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_13
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1294
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6baf27fb7bc010800000000000000
+      internalID: 1210197226466012311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1279
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f94f9c65be1890800000000000000
+      internalID: -7485346052509664928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_15
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1287
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff72b0895d3540a0800000000000000
+      internalID: -6898039799627481100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_16
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1246
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b9966a368ad460800000000000000
+      internalID: 7267268534103290381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_17
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1267
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2768044b8206ed00800000000000000
+      internalID: 1001490764301625132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1265
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb51c3f70f815d80800000000000000
+      internalID: -8263666576931071013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1251
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb421790980f820800000000000000
+      internalID: 2950008429573619156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a900e0c987634700800000000000000
+      internalID: 523375823049197989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 5
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb33620bf68f2ab0800000000000000
+      internalID: -5030653846114583578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1030
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945143f50637f5f0800000000000000
+      internalID: -723049815985793895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 968
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc194f16692cbe20800000000000000
+      internalID: 3367612139954576592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f63fa5ee12b254f0800000000000000
+      internalID: -841414334592633096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 933
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25928814966fe2110800000000000000
+      internalID: 1238197879504906578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 917
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86ca4b314b84470800000000000000
+      internalID: 8379145103451384034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 871
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02c35e05982da080800000000000000
+      internalID: -9174632245228223985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 807
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13571864744f30b40800000000000000
+      internalID: 5405432564737471793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 873
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae0086168a5a9350800000000000000
+      internalID: 6024226983511068332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_30
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 863
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b596a5642e0d380800000000000000
+      internalID: -8948403667792733426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 704
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b0558bdf72cf6b0800000000000000
+      internalID: -5261286294002791616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_32
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 693
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f96fb750670ea0800000000000000
+      internalID: -5906646456283303608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 657
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504909a06e285ef0800000000000000
+      internalID: -119294397437624230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 663
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712545fc7e95e010800000000000000
+      internalID: 1217553533801668978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87831b83981d330800000000000000
+      internalID: 3733916442651293901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 611
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ac68e9a8a6a3b0800000000000000
+      internalID: -5501524447084108274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 579
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9285ed196def9890800000000000000
+      internalID: -7448974222918581603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 373
+        width: 77
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3092698f4396a5910800000000000000
+      internalID: 1826888275081963779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_39
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 415
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d81963cd6cbef0800000000000000
+      internalID: -91077206404967897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_40
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 389
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52bb0c4968d1aa00800000000000000
+      internalID: 766131358388695644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_41
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409e6ff375d41f20800000000000000
+      internalID: 3392571113500217415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_42
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 353
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0540f249f6caed50800000000000000
+      internalID: 6767440163949790476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_43
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 339
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac510c94f5e756a70800000000000000
+      internalID: 8819594392999302602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_44
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 344
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac414dfe2f397b0800000000000000
+      internalID: -5218560431323034922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcb23b926602aee0800000000000000
+      internalID: -1251430725875221313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_46
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 284
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5619206c04fbd9a20800000000000000
+      internalID: 3070820805857415525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_47
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 209
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66839fe394425b100800000000000000
+      internalID: 123044461830289510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_48
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd43bb47d193a140800000000000000
+      internalID: 4729784387543191034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 149
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b55606726ea0a0800000000000000
+      internalID: -6868444122641485136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 53
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d097b71aa9e339590800000000000000
+      internalID: -7668716906626713331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_51
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 133
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8a66e92b9a30d0800000000000000
+      internalID: -3442268360909615982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 116
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95dd22c647741d70800000000000000
+      internalID: 9012959900064404890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_53
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 98
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ce81d232fa6b00800000000000000
+      internalID: 822736182026619141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 15
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6743da9b88c620800000000000000
+      internalID: 2794637065869290278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 14
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb37a0fd692d06f0800000000000000
+      internalID: -716871213516375100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_56
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8888e3801ee14680800000000000000
+      internalID: -8772468844441073521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_57
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 15
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd693290c8b7940800000000000000
+      internalID: 5294979757783833356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_58
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 15
+        width: 155
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa87c9981b089df0800000000000000
+      internalID: -173376385366652173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_59
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 7
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9c6b04fd387630800000000000000
+      internalID: 3924955193626369279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_60
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 6
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d4c54186b028c00800000000000000
+      internalID: 901295417073618234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stednjak_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2862f1b8ac1b26250800000000000000
+      internalID: 5936502742303319682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stednjak_0: -3519361243557936411
+      stednjak_1: -7170890427026317096
+      stednjak_10: -5681601259433180496
+      stednjak_11: 3043872114580528334
+      stednjak_12: 757728424095133492
+      stednjak_13: 1210197226466012311
+      stednjak_14: -7485346052509664928
+      stednjak_15: -6898039799627481100
+      stednjak_16: 7267268534103290381
+      stednjak_17: 1001490764301625132
+      stednjak_18: -8263666576931071013
+      stednjak_19: 2950008429573619156
+      stednjak_2: -8278195161488993780
+      stednjak_20: 523375823049197989
+      stednjak_21: -5030653846114583578
+      stednjak_22: -723049815985793895
+      stednjak_23: 3367612139954576592
+      stednjak_24: -841414334592633096
+      stednjak_25: 1238197879504906578
+      stednjak_26: 8379145103451384034
+      stednjak_27: -9174632245228223985
+      stednjak_28: 5405432564737471793
+      stednjak_29: 6024226983511068332
+      stednjak_3: 7091861960577921160
+      stednjak_30: -8948403667792733426
+      stednjak_31: -5261286294002791616
+      stednjak_32: -5906646456283303608
+      stednjak_33: -119294397437624230
+      stednjak_34: 1217553533801668978
+      stednjak_35: 3733916442651293901
+      stednjak_36: -5501524447084108274
+      stednjak_37: -7448974222918581603
+      stednjak_38: 1826888275081963779
+      stednjak_39: -91077206404967897
+      stednjak_4: 2577537883453066968
+      stednjak_40: 766131358388695644
+      stednjak_41: 3392571113500217415
+      stednjak_42: 6767440163949790476
+      stednjak_43: 8819594392999302602
+      stednjak_44: -5218560431323034922
+      stednjak_45: -1251430725875221313
+      stednjak_46: 3070820805857415525
+      stednjak_47: 123044461830289510
+      stednjak_48: 4729784387543191034
+      stednjak_49: -6868444122641485136
+      stednjak_5: 3132891910654919858
+      stednjak_50: -7668716906626713331
+      stednjak_51: -3442268360909615982
+      stednjak_52: 9012959900064404890
+      stednjak_53: 822736182026619141
+      stednjak_54: 2794637065869290278
+      stednjak_55: -716871213516375100
+      stednjak_56: -8772468844441073521
+      stednjak_57: 5294979757783833356
+      stednjak_58: -173376385366652173
+      stednjak_59: 3924955193626369279
+      stednjak_6: -7857460080466984373
+      stednjak_60: 901295417073618234
+      stednjak_61: 5936502742303319682
+      stednjak_7: 3488628032514342332
+      stednjak_8: 5368872234746034547
+      stednjak_9: 838915111658884052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
