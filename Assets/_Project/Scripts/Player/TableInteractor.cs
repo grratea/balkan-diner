@@ -147,6 +147,8 @@ public class TableInteractor : MonoBehaviour
         Order order = carry.Drop();
 
         OrderManager.instance.RemoveOrder(order);
+
+        table.SetServedDish(order.Dish);    // ZA NOVI SPRITE
         table.SetState(TableState.Served);
 
         Customer customer = table.CurrentCustomer;

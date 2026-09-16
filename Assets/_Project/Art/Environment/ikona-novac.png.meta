@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 81e4a608452ebee41ab0c4ea2be38827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8457848937980997174
+    second: ikona-novac_0
+  - first:
+      213: -533983688074278054
+    second: ikona-novac_1
+  - first:
+      213: -4237833220268052368
+    second: ikona-novac_2
+  - first:
+      213: 9057253631779844252
+    second: ikona-novac_3
+  - first:
+      213: 6516333661084042987
+    second: ikona-novac_4
+  - first:
+      213: -4956601393721741580
+    second: ikona-novac_5
+  - first:
+      213: 7586558217502423096
+    second: ikona-novac_6
+  - first:
+      213: -3205246659882701602
+    second: ikona-novac_7
+  - first:
+      213: 7355882192004919814
+    second: ikona-novac_8
+  - first:
+      213: 5623104933819536568
+    second: ikona-novac_9
+  - first:
+      213: 2448027306559006061
+    second: ikona-novac_10
+  - first:
+      213: 7731897620936518368
+    second: ikona-novac_11
+  - first:
+      213: 2203593619618197679
+    second: ikona-novac_12
+  - first:
+      213: -948207805873323326
+    second: ikona-novac_13
+  - first:
+      213: 1562108453027712228
+    second: ikona-novac_14
+  - first:
+      213: -6756785887203789492
+    second: ikona-novac_15
+  - first:
+      213: -5948838500906608852
+    second: ikona-novac_16
+  - first:
+      213: -4815071879616753149
+    second: ikona-novac_17
+  - first:
+      213: -5428260175749715903
+    second: ikona-novac_18
+  - first:
+      213: 9040490987955997704
+    second: ikona-novac_19
+  - first:
+      213: 8770841947373571198
+    second: ikona-novac_20
+  - first:
+      213: 6192309290574937305
+    second: ikona-novac_21
+  - first:
+      213: -9174791234196068961
+    second: ikona-novac_22
+  - first:
+      213: -6591776009955851423
+    second: ikona-novac_23
+  - first:
+      213: 166589809467897400
+    second: ikona-novac_24
+  - first:
+      213: -7705489785826010856
+    second: ikona-novac_25
+  - first:
+      213: 7855567167613755572
+    second: ikona-novac_26
+  - first:
+      213: -3041332002668558623
+    second: ikona-novac_27
+  - first:
+      213: 8298211501530042607
+    second: ikona-novac_28
+  - first:
+      213: -1895631470936568163
+    second: ikona-novac_29
+  - first:
+      213: -8175633754269905953
+    second: ikona-novac_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ikona-novac_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1903
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea5482cc0506570800000000000000
+      internalID: 8457848937980997174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_1
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1912
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bca743aa8e698f0800000000000000
+      internalID: -533983688074278054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1893
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b290a3213035c0800000000000000
+      internalID: -4237833220268052368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1887
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90bad2d034d1bd70800000000000000
+      internalID: 9057253631779844252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_4
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1841
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c5d290faae6a50800000000000000
+      internalID: 6516333661084042987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_5
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1867
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe620a2b4d963bb0800000000000000
+      internalID: -4956601393721741580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387d06e08ed84960800000000000000
+      internalID: 7586558217502423096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_7
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1175
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc2f2c152da483d0800000000000000
+      internalID: -3205246659882701602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1054
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602331861e7551660800000000000000
+      internalID: 7355882192004919814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_9
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1063
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45f031528490e40800000000000000
+      internalID: 5623104933819536568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_10
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1071
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e7e77dd329f120800000000000000
+      internalID: 2448027306559006061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_11
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1061
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaeb9fbbe73d4b60800000000000000
+      internalID: 7731897620936518368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_12
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1011
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0f8aec8bcb49e10800000000000000
+      internalID: 2203593619618197679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 949
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c20bad360a47d2f0800000000000000
+      internalID: -948207805873323326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_14
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 911
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0a539c59bda510800000000000000
+      internalID: 1562108453027712228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_15
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 927
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4578d9d8031b32a0800000000000000
+      internalID: -6756785887203789492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_16
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 909
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c275b47d6ea717da0800000000000000
+      internalID: -5948838500906608852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_17
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 905
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302987703ad6d2db0800000000000000
+      internalID: -4815071879616753149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_18
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 887
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e90c5122faa4b0800000000000000
+      internalID: -5428260175749715903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_19
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 847
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ccc3ca7a6467d70800000000000000
+      internalID: 9040490987955997704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_20
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 805
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0c4ef74a48b970800000000000000
+      internalID: 8770841947373571198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_21
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 817
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcf114dd708fe550800000000000000
+      internalID: 6192309290574937305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_22
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 705
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95206d8bf79ca080800000000000000
+      internalID: -9174791234196068961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_23
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 671
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163c3a7c4ae4584a0800000000000000
+      internalID: -6591776009955851423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836b8809c88df4200800000000000000
+      internalID: 166589809467897400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 6
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819907f7dd9901590800000000000000
+      internalID: -7705489785826010856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e6d6e7b4940d60800000000000000
+      internalID: 7855567167613755572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6c9e048a40bc5d0800000000000000
+      internalID: -3041332002668558623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 25
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe052c3156b292370800000000000000
+      internalID: 8298211501530042607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 22
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e46cd783d51b5e0800000000000000
+      internalID: -1895631470936568163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikona-novac_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8c07ba605a8e80800000000000000
+      internalID: -8175633754269905953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ikona-novac_0: 8457848937980997174
+      ikona-novac_1: -533983688074278054
+      ikona-novac_10: 2448027306559006061
+      ikona-novac_11: 7731897620936518368
+      ikona-novac_12: 2203593619618197679
+      ikona-novac_13: -948207805873323326
+      ikona-novac_14: 1562108453027712228
+      ikona-novac_15: -6756785887203789492
+      ikona-novac_16: -5948838500906608852
+      ikona-novac_17: -4815071879616753149
+      ikona-novac_18: -5428260175749715903
+      ikona-novac_19: 9040490987955997704
+      ikona-novac_2: -4237833220268052368
+      ikona-novac_20: 8770841947373571198
+      ikona-novac_21: 6192309290574937305
+      ikona-novac_22: -9174791234196068961
+      ikona-novac_23: -6591776009955851423
+      ikona-novac_24: 166589809467897400
+      ikona-novac_25: -7705489785826010856
+      ikona-novac_26: 7855567167613755572
+      ikona-novac_27: -3041332002668558623
+      ikona-novac_28: 8298211501530042607
+      ikona-novac_29: -1895631470936568163
+      ikona-novac_3: 9057253631779844252
+      ikona-novac_30: -8175633754269905953
+      ikona-novac_4: 6516333661084042987
+      ikona-novac_5: -4956601393721741580
+      ikona-novac_6: 7586558217502423096
+      ikona-novac_7: -3205246659882701602
+      ikona-novac_8: 7355882192004919814
+      ikona-novac_9: 5623104933819536568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

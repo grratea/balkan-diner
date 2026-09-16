@@ -3,8 +3,9 @@ using UnityEngine;
 
 public class CarryController : MonoBehaviour
 {
-    //[SerializeField] private TextMeshPro carryLabel;
+    // [SerializeField] private TextMeshPro carryLabel;
     [SerializeField] private SpriteRenderer carryIcon;
+    [SerializeField] private Sprite recipeSprite;
 
     private Order carriedOrder;
 
@@ -14,7 +15,7 @@ public class CarryController : MonoBehaviour
 
     void Start()
     {
-        //RefreshLabel();
+        // RefreshLabel();
         RefreshIcon();
     }
 
@@ -76,39 +77,14 @@ public class CarryController : MonoBehaviour
             return;
         }
 
-        if (carriedOrder != null && carriedOrder.IsReady)
-        {
-            carryIcon.sprite = carriedOrder.Dish.icon;
-        }
-
-        else
+        if (carriedOrder == null)
         {
             carryIcon.sprite = null;
-        }
-    }
-
-    private void ShowCarryIcon(DishSO dish)
-    {
-        if (carryIcon == null)
-        {
             return;
         }
 
-        if (dish == null || dish.icon == null)
-        {
-            carryIcon.gameObject.SetActive(false);
-            return;
-        }
-
-        carryIcon.sprite = dish.icon;
-        carryIcon.gameObject.SetActive(true);
+        // razlikuje ih IsReady
+        carryIcon.sprite = carriedOrder.IsReady ? carriedOrder.Dish.icon : recipeSprite;
     }
 
-    private void HideCarryIcon()
-    {
-        if (carryIcon != null)
-        {
-            carryIcon.gameObject.SetActive(false);
-        }
-    }
 }

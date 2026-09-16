@@ -9,11 +9,21 @@ public class Table : MonoBehaviour
     // transform.position se ne moze koristiti za oboje
     [SerializeField] private Transform seatPoint; // tocka za gosta 
     [SerializeField] private Transform servePoint; // tocka za konobara
-    [SerializeField] private TextMeshPro debugLabel;
 
     [Header("ONLY FOR DEBUG")]
     [SerializeField] private TableState state = TableState.Free;
     [SerializeField] private bool showDebugLabel = false;
+    [SerializeField] private TextMeshPro debugLabel;
+
+    [Header("VISUALS")]
+    [SerializeField] private SpriteRenderer dishRenderer;
+    [SerializeField] private SpriteRenderer dirtyRenderer;
+    [SerializeField] private SpriteRenderer moneyRenderer;
+    [SerializeField] private Sprite dirtySprite;
+    [SerializeField] private Sprite moneySprite;
+
+
+    private DishSO servedDish; // sada stol zna sto je gost jeo
 
     private Customer currentCustomer;
     private int pendingPayment;
@@ -59,6 +69,7 @@ public class Table : MonoBehaviour
     void Start()
     {
         RefreshLabel(); // da pokaze pocetno stanje odmah, inace prazno do prve promjene
+        RefreshVisuals();
     }
 
     public void SetState(TableState newState)
@@ -70,8 +81,40 @@ public class Table : MonoBehaviour
         }
 
         this.state = newState;
+
+        if (state != TableState.Served)
+        {
+            servedDish = null;
+        }
+
         RefreshLabel(); // promjeni vizualno stol
+        RefreshVisuals();
         OnStateChanged?.Invoke(this, state); // okida na promjenu stanja te salje stol i state
+    }
+
+    public void SetServedDish(DishSO dish)
+    {
+        servedDish = dish;
+        RefreshVisuals();
+    }
+
+    private void RefreshVisuals()
+    {
+        if (dishRenderer != null)
+        {
+            bool showDish = (state == TableState.Served && servedDish != null);
+            dishRenderer.sprite = showDish ? servedDish.icon : null;
+        }
+
+        if (dirtyRenderer != null)
+        {
+            dirtyRenderer.sprite = (state == TableState.Dirty) ? dirtySprite: null;
+        }
+
+        if (moneyRenderer != null)
+        {
+            moneyRenderer.sprite = (pendingPayment > 0) ? moneySprite : null;
+        }
     }
     
     private void RefreshLabel()
@@ -122,6 +165,7 @@ public class Table : MonoBehaviour
     public void LeavePayment(int amount)
     {
         pendingPayment = amount;
+        RefreshVisuals();
         RefreshLabel();
     }
 
@@ -131,6 +175,7 @@ public class Table : MonoBehaviour
     {
         int amount = pendingPayment;
         pendingPayment = 0;
+        RefreshVisuals();
         return amount;
     }
 
@@ -138,8 +183,10 @@ public class Table : MonoBehaviour
     {
         currentCustomer = null;
         pendingPayment = 0;
+        servedDish = null;
         SetState(TableState.Free);
         RefreshLabel();
+        RefreshVisuals();
     }
 
 
