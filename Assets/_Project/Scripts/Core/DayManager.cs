@@ -45,6 +45,8 @@ public class DayManager : MonoBehaviour
             GameManager.instance.OnMoneyChanged -= HandleMoneyChanged;
         }
         Time.timeScale = 1f;
+
+        AudioListener.pause = false;
     }
 
 
@@ -66,6 +68,8 @@ public class DayManager : MonoBehaviour
         timeLeft = GameConfig.Balance.dayDuration;
         state = DayState.Playing;
         Time.timeScale = 1f;
+
+        AudioListener.pause = false;
 
         OnDayStarted?.Invoke(currentDay, Goal);
     }
@@ -118,6 +122,8 @@ public class DayManager : MonoBehaviour
     {
         state = DayState.Ended;
         Time.timeScale = 0f;
+
+        //AudioListener.pause = true;
 
         bool success = (earnedToday >= Goal);
         // bool isLastDay = (currentDay >= GameConfig.Balance.totalDays);

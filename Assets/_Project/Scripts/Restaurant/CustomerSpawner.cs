@@ -48,6 +48,11 @@ public class CustomerSpawner : MonoBehaviour
             Quaternion.identity);
 
         customer.Init(doorPoint.position);
+
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlayDoorBell();
+        }
     }
 
     private void OnDrawGizmos()

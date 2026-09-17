@@ -51,11 +51,19 @@ public class TableInteractor : MonoBehaviour
         // ako je hit izmedu stola i klika, idi do stola
         if (hit.TryGetComponent(out Table table))
         {
+            if (HasWorkAtTable(table) && AudioManager.instance != null)
+            {
+                AudioManager.instance.PlayClick();
+            }
             TryGoToTable(table);
         }
         // ako je hit izmedu stovea i klika, idi do stovea
         else if (hit.TryGetComponent(out Stove stove))
         {
+            if (HasWorkAtStove(stove) && AudioManager.instance != null)
+            {
+                AudioManager.instance.PlayClick();
+            }
             TryGoToStove(stove);
         }
 

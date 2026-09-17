@@ -13,7 +13,11 @@ public class Stove : MonoBehaviour
     [Header("ONLY FOR DEBUG")]
     [SerializeField] private StoveState state = StoveState.Empty;
 
+    [Header("VISUAL")]
     [SerializeField] private SpriteRenderer dishIcon;
+
+    [Header("AUDIO")]
+    [SerializeField] private AudioSource sizzleSource;
 
     private Order currentOrder;
     // timeri
@@ -137,7 +141,27 @@ public class Stove : MonoBehaviour
         cookTimer = totalCookTime;
 
         SetState(StoveState.Cooking);
+        StartSizzle();
         return true;
+    }
+
+    private void StartSizzle()
+    {
+        // da se ne restarta
+        if (sizzleSource == null || sizzleSource.isPlaying)
+        {
+            return;
+        }
+        sizzleSource.loop = true;
+        sizzleSource.Play();
+    }
+
+    private void StopSizzle()
+    {
+        if (sizzleSource != null && sizzleSource.isPlaying)
+        {
+            sizzleSource.Stop();
+        }
     }
 
     public void SetState(StoveState newState) 
@@ -157,6 +181,13 @@ public class Stove : MonoBehaviour
         currentOrder.IsReady = true;
         SetState(StoveState.Ready);
 
+        StopSizzle();
+
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlayDing();
+        }
+
         OrderManager.instance.NotifyOrdersChanged();
 
         OnCookingFinished?.Invoke(this);
@@ -175,6 +206,8 @@ public class Stove : MonoBehaviour
         currentOrder = null;
         SetState(StoveState.Empty);
 
+        StopSizzle();
+
         return order;
     }
 
@@ -183,6 +216,7 @@ public class Stove : MonoBehaviour
         currentOrder = null;
         cookTimer = 0f;
         totalCookTime = 0f;
+        StopSizzle();
         SetState(StoveState.Empty);
         RefreshVisuals();
     }

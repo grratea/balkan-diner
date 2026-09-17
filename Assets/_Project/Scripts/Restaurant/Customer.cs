@@ -248,6 +248,11 @@ public class Customer : MonoBehaviour
     {
         StopPatience();
 
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlayAngry();
+        }
+
         // otkine se narudzba i zasteka stednjak
         if (currentOrder != null)
         {

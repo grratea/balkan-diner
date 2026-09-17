@@ -66,6 +66,7 @@ public class PauseManager : MonoBehaviour
     {
         isPaused = true;
         Time.timeScale = 0f;
+        AudioListener.pause = true;
 
         if (pausePanel != null)
         {
@@ -78,6 +79,7 @@ public class PauseManager : MonoBehaviour
     {
         isPaused = false;
         Time.timeScale = 1f;
+        AudioListener.pause = false;
 
         if (pausePanel != null)
         {
@@ -88,6 +90,7 @@ public class PauseManager : MonoBehaviour
     private void OnDestroy()
     {
         Time.timeScale = 1f;
+        AudioListener.pause = false;
     }
 
     public void QuitToMenu()
