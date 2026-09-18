@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 849ffbbfca67da84388174c831cf6307, type: 3}
   m_Name: BalanceConfig
   m_EditorClassIdentifier: Assembly-CSharp::BalanceConfig
-  totalDays: 1
-  dayDuration: 50
+  totalDays: 2
+  dayDuration: 20
   spawnInterval: 4
   customerPatience: 25
   customerEatDuration: 4
   startingTables: 3
   startingStoves: 2
-  dailyGoals: 6400000096000000c8000000200300004c040000
+  dailyGoals: 0000000000000000c8000000200300004c040000

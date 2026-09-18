@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System;
+using UnityEngine.EventSystems;
 
 [RequireComponent(typeof(Mover))] // automatski povezuje u Unity-u
 public class PlayerController : MonoBehaviour
@@ -37,6 +38,11 @@ public class PlayerController : MonoBehaviour
         }
 
         if (!(Mouse.current.leftButton.wasPressedThisFrame)) {
+            return;
+        }
+
+        if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
+        {
             return;
         }
 

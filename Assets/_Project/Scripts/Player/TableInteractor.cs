@@ -2,6 +2,7 @@ using System;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.EventSystems;
 
 [RequireComponent (typeof(Mover))]
 [RequireComponent(typeof(CarryController))]
@@ -39,6 +40,11 @@ public class TableInteractor : MonoBehaviour
         }
 
         if (!Mouse.current.leftButton.wasPressedThisFrame) 
+        {
+            return;
+        }
+
+        if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
         {
             return;
         }
